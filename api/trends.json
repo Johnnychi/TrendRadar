@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-15T13:16:50.262920+08:00",
-  "total_titles_processed": 1212,
+  "generated_at": "2025-10-15T14:25:17.112114+08:00",
+  "total_titles_processed": 1307,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 70,
+      "match_count": 71,
       "titles": [
         {
           "title": "特朗普呼吁赦免内塔尼亚胡，可行吗？",
@@ -30,8 +30,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时22分 ~ 13时16分]"
+          "appearance_count": 19,
+          "time_info": "[00时22分 ~ 14时25分]"
         },
         {
           "title": "特朗普签署加沙停火协议",
@@ -62,6 +62,18 @@
           "is_new": false,
           "appearance_count": 16,
           "time_info": "[00时22分 ~ 12时22分]"
+        },
+        {
+          "title": "特朗普称考虑终止与中国部分贸易往来",
+          "url": "https://news.ifeng.com/c/8nSohQvRLm8",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时14分 ~ 14时25分]"
         },
         {
           "title": "特朗普向遭枪杀的柯克追授总统自由勋章",
@@ -99,6 +111,19 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时22分 ~ 03时14分]"
+        },
+        {
+          "title": "否认“特朗普内线”，加大空仓至3.4亿美元！上周精准狙击币圈的“巨鲸”又有新动作",
+          "url": "https://wallstreetcn.com/articles/3757151",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时14分 ~ 14时25分]"
         },
         {
           "title": "特朗普抱怨称中国故意不买美国大豆",
@@ -165,17 +190,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时14分"
-        },
-        {
-          "title": "特朗普称考虑终止与中国部分贸易往来",
-          "url": "https://news.ifeng.com/c/8nSohQvRLm8",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时14分 ~ 13时16分]"
         },
         {
           "title": "美国总统特朗普：我们在南美洲取得了巨大进展。",
@@ -264,18 +278,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时15分"
-        },
-        {
-          "title": "否认“特朗普内线”，加大空仓至3.4亿美元！上周精准狙击币圈的“巨鲸”又有新动作",
-          "url": "https://wallstreetcn.com/articles/3757151",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时14分 ~ 13时16分]"
         },
         {
           "title": "特朗普100%关税威胁是虚晃一枪吗",
@@ -425,6 +427,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时26分 ~ 03时14分]"
+        },
+        {
+          "title": "特朗普关税压力下 全球第四大车企宣布将在美投资130亿美元",
+          "url": "https://www.cls.cn/detail/2169818",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时24分 ~ 14时25分]"
         },
         {
           "title": "富国银行收涨7.15%，创特朗普赢得2024年大选以来最佳单日表现。 费城银行指数收涨1.8%，成分股中、华尔街大行中，除了富国银行之外，花旗集团收涨3.89%，美国银行涨2.52%，摩根士丹利涨0.14%，摩根大通则收跌1.91%，高盛集团跌2.04%。",
@@ -841,8 +854,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时15分 ~ 13时16分]"
+          "appearance_count": 8,
+          "time_info": "[07时15分 ~ 14时25分]"
         },
         {
           "title": "TACO交易！科技股力撑美股反弹，博通涨近10%，黄金突破4100关口，历史性逼空助白银新高",
@@ -1050,8 +1063,21 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时14分 ~ 13时16分]"
+          "appearance_count": 7,
+          "time_info": "[09时14分 ~ 14时25分]"
+        },
+        {
+          "title": "AI重塑零售业！沃尔玛携手OpenAI在ChatGPT上推出购物功能",
+          "url": "https://www.cls.cn/detail/2169515",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时03分 ~ 14时25分]"
         },
         {
           "title": "OpenAI拟在阿根廷投资250亿美元 打造拉美首个“星门”项目",
@@ -1088,19 +1114,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时22分 ~ 13时16分]"
-        },
-        {
-          "title": "AI重塑零售业！沃尔玛携手OpenAI在ChatGPT上推出购物功能",
-          "url": "https://www.cls.cn/detail/2169515",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时03分 ~ 13时16分]"
         },
         {
           "title": "据英国金融时报：OpenAI正致力于开拓新的收入来源，寻求债务合作，并进一步开展融资活动，以应对庞大的成本。",
@@ -1418,11 +1431,12 @@
           "ranks": [
             7,
             6,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时14分 ~ 13时16分]"
+          "appearance_count": 7,
+          "time_info": "[09时14分 ~ 14时25分]"
         }
       ]
     }
