@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-17T16:24:10.146969+08:00",
-  "total_titles_processed": 1539,
+  "generated_at": "2025-10-17T17:19:03.465691+08:00",
+  "total_titles_processed": 1630,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 95,
+      "match_count": 97,
       "titles": [
         {
           "title": "特朗普：可能会在未来两周内与普京会面",
@@ -77,11 +77,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             5,
-            9
+            9,
+            13
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时00分 ~ 16时24分]"
+          "appearance_count": 12,
+          "time_info": "[11时00分 ~ 17时19分]"
         },
         {
           "title": "特朗普与普京将在布达佩斯举行会晤 美军3架B52飞赴委内瑞拉近海 | 环球市场",
@@ -119,8 +120,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时00分 ~ 16时24分]"
+          "appearance_count": 12,
+          "time_info": "[11时00分 ~ 17时19分]"
         },
         {
           "title": "俄美峰会地点定了！俄方公布13点普京特朗普通话成果，释放何信号？",
@@ -129,11 +130,25 @@
           "ranks": [
             15,
             16,
-            14
+            14,
+            13
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时00分 ~ 16时24分]"
+          "appearance_count": 12,
+          "time_info": "[11时00分 ~ 17时19分]"
+        },
+        {
+          "title": "普京特朗普通话细节",
+          "url": "https://www.douyin.com/hot/2272619",
+          "source": "抖音",
+          "ranks": [
+            5,
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[14时25分 ~ 17时19分]"
         },
         {
           "title": "中方回应特朗普让中国停买俄石油",
@@ -174,16 +189,26 @@
           "time_info": "[09时13分 ~ 14时25分]"
         },
         {
-          "title": "普京特朗普通话细节",
-          "url": "https://www.douyin.com/hot/2272619",
-          "source": "抖音",
+          "title": "美俄讨论美供乌“战斧”，特朗普：普京不高兴",
+          "url": "https://news.ifeng.com/c/8nWlNWrEz3l",
+          "source": "凤凰网",
           "ranks": [
-            5,
-            11
+            1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时25分 ~ 16时24分]"
+          "appearance_count": 2,
+          "time_info": "[17时18分 ~ 17时19分]"
+        },
+        {
+          "title": "俄美总统通话 2.5 小时，普京正告特朗普「战斧」不会改变俄乌战局，双方还谈了什么？释放哪些信号？",
+          "url": "https://www.zhihu.com/question/1962439324869047516",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[14时25分 ~ 17时19分]"
         },
         {
           "title": "特朗普授权CIA在委开展“致命行动”，马杜罗：不需要",
@@ -218,6 +243,18 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时23分 ~ 04时19分]"
+        },
+        {
+          "title": "你如何看待特朗普建凯旋门",
+          "url": "https://www.toutiao.com/trending/7561714764305907758/",
+          "source": "今日头条",
+          "ranks": [
+            16,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时17分 ~ 17时19分]"
         },
         {
           "title": "市场消息：俄罗斯总统普京与美国总统特朗普的通话结束。",
@@ -275,17 +312,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[09时13分 ~ 11时37分]"
-        },
-        {
-          "title": "俄美总统通话 2.5 小时，普京正告特朗普「战斧」不会改变俄乌战局，双方还谈了什么？释放哪些信号？",
-          "url": "https://www.zhihu.com/question/1962439324869047516",
-          "source": "知乎",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时25分 ~ 16时24分]"
         },
         {
           "title": "印度回应特朗普称该国承诺停购俄油",
@@ -374,18 +400,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[11时00分 ~ 12时21分]"
-        },
-        {
-          "title": "你如何看待特朗普建凯旋门",
-          "url": "https://www.toutiao.com/trending/7561714764305907758/",
-          "source": "今日头条",
-          "ranks": [
-            16,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时17分 ~ 16时24分]"
         },
         {
           "title": "特朗普称将与普京在布达佩斯会面",
@@ -480,6 +494,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时19分 ~ 05时15分]"
+        },
+        {
+          "title": "特朗普关税谁买单？标普全球：三分之二成本由消费者承担",
+          "url": "https://www.cls.cn/detail/2172177",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时18分 ~ 17时19分]"
         },
         {
           "title": "美国总统特朗普：（2025年夏季）与俄罗斯总统普京在阿拉斯加会面（为后续沟通）奠定基础。 对俄罗斯的制裁法案恐怕并非完美时机。",
@@ -865,7 +890,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时24分"
         },
@@ -1277,7 +1302,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时24分"
         },
@@ -1288,7 +1313,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时24分"
         },
@@ -1310,7 +1335,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时24分"
         },
@@ -1332,7 +1357,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时24分"
         },
@@ -1376,7 +1401,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时24分"
         },
@@ -1605,8 +1630,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时13分 ~ 16时24分]"
+          "appearance_count": 14,
+          "time_info": "[09时13分 ~ 17时19分]"
         },
         {
           "title": "美债、黄金大涨！美国信贷“蟑螂”成群出没 区域银行危机再现？",
@@ -1615,11 +1640,12 @@
           "ranks": [
             9,
             6,
-            7
+            7,
+            4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时00分 ~ 16时24分]"
+          "appearance_count": 12,
+          "time_info": "[11时00分 ~ 17时19分]"
         },
         {
           "title": "银贷担忧加剧，美股转跌，十年期美债收益率下破4.0%，金银历史新高",
@@ -1734,8 +1760,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时13分 ~ 16时24分]"
+          "appearance_count": 14,
+          "time_info": "[09时13分 ~ 17时19分]"
         },
         {
           "title": "OpenAI模型Sora 2上线微软Azure AI Foundry（国际版）",
