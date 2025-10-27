@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-27T18:20:38.264874+08:00",
-  "total_titles_processed": 1418,
+  "generated_at": "2025-10-27T19:23:43.278993+08:00",
+  "total_titles_processed": 1531,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 63,
+      "match_count": 69,
       "titles": [
         {
           "title": "美俄代表持续接触，特朗普：暂不打算见普京",
@@ -72,6 +72,18 @@
           "time_info": "[00时21分 ~ 07时16分]"
         },
         {
+          "title": "部署1.8万警力，高市早苗为特朗普来访准备“大礼”",
+          "url": "https://news.ifeng.com/c/8nnBWKkSs4o",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时22分 ~ 19时23分]"
+        },
+        {
           "title": "特朗普到访，日本新首相高市早苗迎来外交“大考”",
           "url": "https://news.ifeng.com/c/8nn0csPCPJl",
           "source": "凤凰网",
@@ -136,17 +148,6 @@
           "time_info": "[01时15分 ~ 07时16分]"
         },
         {
-          "title": "部署1.8万警力，高市早苗为特朗普来访准备“大礼”",
-          "url": "https://news.ifeng.com/c/8nnBWKkSs4o",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时22分 ~ 18时20分]"
-        },
-        {
           "title": "韩国总统顾问：在亚太经合组织会议期间，李在明总统与美国总统特朗普达成关税协议存在困难。",
           "url": "https://flash.jin10.com/detail/20251027104546446800",
           "source": "金十数据",
@@ -169,6 +170,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时21分 ~ 05时16分]"
+        },
+        {
+          "title": "经济学家分析特朗普关税政策",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BB%8F%E6%B5%8E%E5%AD%A6%E5%AE%B6%E5%88%86%E6%9E%90%E7%89%B9%E6%9C%97%E6%99%AE%E5%85%B3%E7%A8%8E%E6%94%BF%E7%AD%96",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时23分"
         },
         {
           "title": "引用前总统讲话“打脸”现总统，特朗普再次怒举关税大棒",
@@ -280,6 +292,18 @@
           "time_info": "[14时28分 ~ 15时24分]"
         },
         {
+          "title": "美联储主席五位候选人锁定，特朗普称预计年底作出决定",
+          "url": "https://wallstreetcn.com/articles/3757964",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时20分 ~ 19时23分]"
+        },
+        {
           "title": "美国总统特朗普：我们一直关注南美许多国家，特别是在南美洲投入了很多精力，我们对南美洲有了很清楚的掌握。多方面的努力都在进行中。",
           "url": "https://flash.jin10.com/detail/20251027141149356800",
           "source": "金十数据",
@@ -385,17 +409,6 @@
           "time_info": "15时24分"
         },
         {
-          "title": "美联储主席五位候选人锁定，特朗普称预计年底作出决定",
-          "url": "https://wallstreetcn.com/articles/3757964",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时20分"
-        },
-        {
           "title": "美国总统特朗普：我曾反对让韩国工人离开佐治亚州。",
           "url": "https://flash.jin10.com/detail/20251027141042006800",
           "source": "金十数据",
@@ -405,6 +418,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时28分"
+        },
+        {
+          "title": "特朗普访问日本",
+          "url": "https://www.douyin.com/hot/2285103",
+          "source": "抖音",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时23分"
         },
         {
           "title": "评论员：特朗普没想到莫迪不给面子",
@@ -473,6 +497,17 @@
           "time_info": "16时25分"
         },
         {
+          "title": "匈牙利外长：匈牙利总理欧尔班将与美国总统特朗普讨论美国对俄罗斯能源的制裁。",
+          "url": "https://flash.jin10.com/detail/20251027184150174800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时23分"
+        },
+        {
           "title": "美国总统特朗普：期待与新任日本首相会面。",
           "url": "https://flash.jin10.com/detail/20251027140519886800",
           "source": "金十数据",
@@ -490,9 +525,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时20分"
+        },
+        {
+          "title": "匈牙利外长：匈牙利总理欧尔班将于下周会晤美国总统特朗普。",
+          "url": "https://flash.jin10.com/detail/20251027184028040800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时23分"
         },
         {
           "title": "美国总统特朗普：日本新任首相是（已故前首相）安倍晋三的伟大盟友和朋友。",
@@ -693,6 +739,17 @@
           "time_info": "14时28分"
         },
         {
+          "title": "南非总统拉马福萨：即使特朗普不出席 G20峰会也将照常举行",
+          "url": "https://wallstreetcn.com/livenews/2994251",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时23分"
+        },
+        {
           "title": "巴西总统卢拉：（就特朗普在会谈中是否作出任何承诺表示）没有，作出承诺不是总统的职责。",
           "url": "https://flash.jin10.com/detail/20251027113232713800",
           "source": "金十数据",
@@ -702,6 +759,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时29分"
+        },
+        {
+          "title": "特朗普说俄罗斯试射核动力巡航导弹“不合适”，克宫回应",
+          "url": "https://wallstreetcn.com/livenews/2994247",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时23分"
         },
         {
           "title": "特朗普称不会在2028年大选时作为副总统候选人参选",
@@ -785,7 +853,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时20分"
         },
@@ -818,7 +886,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时20分"
         },
@@ -829,7 +897,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时20分"
         },
@@ -848,7 +916,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
         {
           "title": "美股指数期货走高，日股首破5万点、韩股首破4000点均创新高，铜、大豆上涨，黄金下挫1%",
@@ -862,6 +930,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[11时19分 ~ 16时25分]"
+        },
+        {
+          "title": "亨廷顿银行美股盘前下跌2.3%，亨廷顿银行集团将以74亿美元收购凯登斯银行。",
+          "url": "https://flash.jin10.com/detail/20251027190236928800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时23分"
         },
         {
           "title": "美股三大股指期货高开，纳指期货涨0.8%。",
@@ -904,11 +983,23 @@
           "url": "https://www.cls.cn/detail/2182013",
           "source": "财联社热门",
           "ranks": [
-            10
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时20分 ~ 19时23分]"
+        },
+        {
+          "title": "凯登斯银行美股盘前上涨3.2%。",
+          "url": "https://flash.jin10.com/detail/20251027185322298800",
+          "source": "金十数据",
+          "ranks": [
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时20分"
+          "time_info": "19时23分"
         },
         {
           "title": "部分中概股在美股夜盘走高，阿里巴巴(BABA.N)和百度(BIDU.O)均涨3%，理想汽车(LI.O)、小鹏汽车(XPEV.N)和哔哩哔哩(BILI.O)涨超2%，",
@@ -925,7 +1016,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "美股期指集体拉升，日股首破5万点，美债收益率上行，金银再度跳水，油价回落，以太坊涨超5%",
@@ -936,8 +1027,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时22分 ~ 18时20分]"
+          "appearance_count": 3,
+          "time_info": "[17时22分 ~ 19时23分]"
         },
         {
           "title": "机构： 美联储需更快降息，才能让美债收益率显著下降",
@@ -949,6 +1040,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时25分"
+        },
+        {
+          "title": "市场分析：10年期美债收益率或升至6%",
+          "url": "https://flash.jin10.com/detail/20251027182712790800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时23分"
         },
         {
           "title": "10年期美债收益率上涨4个基点，至4.037%；30年期美债收益率上升3.9个基点，至4.625%。",
@@ -992,7 +1094,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时20分"
         }
