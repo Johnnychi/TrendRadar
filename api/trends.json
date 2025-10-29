@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-29T18:19:21.605781+08:00",
-  "total_titles_processed": 1688,
+  "generated_at": "2025-10-29T19:15:46.010033+08:00",
+  "total_titles_processed": 1774,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 125,
+      "match_count": 127,
       "titles": [
         {
           "title": "“美方没回应”，特朗普高市谈完未举行记者会",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时17分 ~ 18时19分]"
+          "appearance_count": 10,
+          "time_info": "[09时17分 ~ 19时15分]"
         },
         {
           "title": "胡锡进：特朗普访日本，美日同盟更公开“主仆化”",
@@ -49,8 +49,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时19分 ~ 18时19分]"
+          "appearance_count": 7,
+          "time_info": "[13时19分 ~ 19时15分]"
         },
         {
           "title": "特朗普：“愚蠢、荒唐”，将下令美国航母改回去",
@@ -62,6 +62,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[12时24分 ~ 17时18分]"
+        },
+        {
+          "title": "习近平将同特朗普举行会晤",
+          "url": "https://www.douyin.com/hot/2287259",
+          "source": "抖音",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时17分 ~ 19时15分]"
         },
         {
           "title": "特朗普径自走过日本国旗未鞠躬",
@@ -112,17 +123,6 @@
           "time_info": "[00时35分 ~ 07时15分]"
         },
         {
-          "title": "习近平将同特朗普举行会晤",
-          "url": "https://www.douyin.com/hot/2287259",
-          "source": "抖音",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时17分 ~ 18时19分]"
-        },
-        {
           "title": "高市早苗在安倍影子下拉拢特朗普：“不平等条约”与前途未卜的稀土协议",
           "url": "https://m.thepaper.cn/newsDetail_forward_31848486",
           "source": "澎湃新闻",
@@ -134,8 +134,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时15分 ~ 18时19分]"
+          "appearance_count": 9,
+          "time_info": "[11时15分 ~ 19时15分]"
         },
         {
           "title": "习近平将同特朗普举行会晤",
@@ -145,8 +145,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时23分 ~ 18时19分]"
+          "appearance_count": 4,
+          "time_info": "[16时23分 ~ 19时15分]"
         },
         {
           "title": "习近平将同美国总统特朗普举行会晤",
@@ -156,8 +156,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时23分 ~ 18时19分]"
+          "appearance_count": 4,
+          "time_info": "[16时23分 ~ 19时15分]"
         },
         {
           "title": "习近平将同特朗普举行会晤",
@@ -167,8 +167,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时23分 ~ 18时19分]"
+          "appearance_count": 4,
+          "time_info": "[16时23分 ~ 19时15分]"
         },
         {
           "title": "习近平将同美国总统特朗普举行会晤",
@@ -178,8 +178,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时23分 ~ 18时19分]"
+          "appearance_count": 4,
+          "time_info": "[16时23分 ~ 19时15分]"
         },
         {
           "title": "特朗普欲降低关税换取中方遏制芬太尼出口，中方回应",
@@ -190,8 +190,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时23分 ~ 18时19分]"
+          "appearance_count": 4,
+          "time_info": "[16时23分 ~ 19时15分]"
         },
         {
           "title": "特朗普搂着高市早苗大谈美日同盟关系：我们是“不打不相识”",
@@ -205,8 +205,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时17分 ~ 18时19分]"
+          "appearance_count": 9,
+          "time_info": "[09时17分 ~ 19时15分]"
         },
         {
           "title": "习近平将同美国总统特朗普举行会晤",
@@ -214,11 +214,12 @@
           "source": "华尔街见闻",
           "ranks": [
             5,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时23分 ~ 18时19分]"
+          "appearance_count": 4,
+          "time_info": "[16时23分 ~ 19时15分]"
         },
         {
           "title": "特朗普称对中美元首会晤持乐观态度，外交部回应",
@@ -228,8 +229,30 @@
             1
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时18分 ~ 19时15分]"
+        },
+        {
+          "title": "习近平将同美国总统特朗普举行会晤",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31851071",
+          "source": "澎湃新闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[17时18分 ~ 18时19分]"
+          "time_info": "[18时19分 ~ 19时15分]"
+        },
+        {
+          "title": "特朗普：未能协调好与金正恩会晤时间",
+          "url": "https://news.ifeng.com/c/8nqg7u7QlJH",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时19分 ~ 19时15分]"
         },
         {
           "title": "高市早苗被特朗普搂肩称赞 高兴蹦跳",
@@ -241,17 +264,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时17分"
-        },
-        {
-          "title": "习近平将同美国总统特朗普举行会晤",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31851071",
-          "source": "澎湃新闻",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时19分"
         },
         {
           "title": "美国参议院以52比48的投票比例通过法案，终止特朗普宣布的针对巴西进口商品实施50%关税的国家紧急状态。",
@@ -337,7 +349,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时19分"
         },
@@ -386,15 +398,15 @@
           "time_info": "13时19分"
         },
         {
-          "title": "特朗普：未能协调好与金正恩会晤时间",
-          "url": "https://news.ifeng.com/c/8nqg7u7QlJH",
-          "source": "凤凰网",
+          "title": "关税广告怒气未消 特朗普与卡尼仍同桌共宴",
+          "url": "https://wallstreetcn.com/livenews/2995923",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时19分"
+          "time_info": "19时15分"
         },
         {
           "title": "美国总统特朗普：我们正携手解决前所未有的挑战，塑造一个自由开放的印太地区，为所有人打造一个有尊严、有安全、有繁荣、有自豪的未来。",
@@ -406,6 +418,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时19分"
+        },
+        {
+          "title": "特朗普欲降低关税换取中方遏制芬太尼出口，外交部：美方应为合作创造必要条件",
+          "url": "https://www.cls.cn/detail/2184671",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时18分 ~ 19时15分]"
         },
         {
           "title": "英伟达CEO黄仁勋：美国总统特朗普并没有要求入股公司。",
@@ -443,6 +468,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时24分 ~ 13时19分]"
+        },
+        {
+          "title": "为特朗普扶车门的女保镖抢镜",
+          "url": "https://www.toutiao.com/trending/7565803485716254251/",
+          "source": "今日头条",
+          "ranks": [
+            22,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时19分 ~ 19时15分]"
         },
         {
           "title": "高市早苗被特朗普介绍后高兴到转圈",
@@ -507,16 +544,27 @@
           "time_info": "[14时26分 ~ 16时23分]"
         },
         {
-          "title": "特朗普欲降低关税换取中方遏制芬太尼出口，外交部：美方应为合作创造必要条件",
-          "url": "https://www.cls.cn/detail/2184671",
-          "source": "财联社热门",
+          "title": "李在明向特朗普赠送金色王冠和大勋章，特朗普：我现在就想戴",
+          "url": "https://v.ifeng.com/c/8nqcHK4xyyI",
+          "source": "凤凰网",
           "ranks": [
-            8,
             6
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[17时18分 ~ 18时19分]"
+          "time_info": "[18时19分 ~ 19时15分]"
+        },
+        {
+          "title": "专家：特朗普访韩前朝鲜用射弹表态",
+          "url": "https://www.toutiao.com/trending/7566567225784536630/",
+          "source": "今日头条",
+          "ranks": [
+            19,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时19分 ~ 19时15分]"
         },
         {
           "title": "特朗普媒体与科技公司：“真相社交”将与Crypto.com合作，即将开始在“真相社交”上进行测试，随后将在美国全面推出。",
@@ -529,6 +577,29 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时15分 ~ 06时18分]"
+        },
+        {
+          "title": "特朗普：未能协调好与金正恩会晤时间",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E6%9C%AA%E8%83%BD%E5%8D%8F%E8%B0%83%E5%A5%BD%E4%B8%8E%E9%87%91%E6%AD%A3%E6%81%A9%E4%BC%9A%E6%99%A4%E6%97%B6%E9%97%B4",
+          "source": "百度热搜",
+          "ranks": [
+            10,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时19分 ~ 19时15分]"
+        },
+        {
+          "title": "美日首脑会晤：为“美国核电超级大单”买单，高市成功取悦特朗普",
+          "url": "https://wallstreetcn.com/articles/3758090",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时15分 ~ 19时15分]"
         },
         {
           "title": "美国证交会文件显示，特朗普媒体与科技公司宣布将在“真相社交”平台推出预测市场。",
@@ -627,15 +698,16 @@
           "time_info": "[05时15分 ~ 06时18分]"
         },
         {
-          "title": "李在明向特朗普赠送金色王冠和大勋章，特朗普：我现在就想戴",
-          "url": "https://v.ifeng.com/c/8nqcHK4xyyI",
-          "source": "凤凰网",
+          "title": "韩国赠送特朗普礼物曝光",
+          "url": "https://www.baidu.com/s?wd=%E9%9F%A9%E5%9B%BD%E8%B5%A0%E9%80%81%E7%89%B9%E6%9C%97%E6%99%AE%E7%A4%BC%E7%89%A9%E6%9B%9D%E5%85%89",
+          "source": "百度热搜",
           "ranks": [
-            6
+            27,
+            29
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时19分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时19分 ~ 19时15分]"
         },
         {
           "title": "特朗普承认：“显然我不被允许竞选第三任期”",
@@ -757,28 +829,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时15分"
-        },
-        {
-          "title": "特朗普：未能协调好与金正恩会晤时间",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E6%9C%AA%E8%83%BD%E5%8D%8F%E8%B0%83%E5%A5%BD%E4%B8%8E%E9%87%91%E6%AD%A3%E6%81%A9%E4%BC%9A%E6%99%A4%E6%97%B6%E9%97%B4",
-          "source": "百度热搜",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时19分"
-        },
-        {
-          "title": "美日首脑会晤：为“美国核电超级大单”买单，高市成功取悦特朗普",
-          "url": "https://wallstreetcn.com/articles/3758090",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时15分"
         },
         {
           "title": "美国法官延长了对美国总统特朗普政府在政府停摆期间大规模裁员的禁令。",
@@ -908,7 +958,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时19分"
         },
@@ -963,7 +1013,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时19分"
         },
@@ -1067,17 +1117,6 @@
           "time_info": "17时18分"
         },
         {
-          "title": "专家：特朗普访韩前朝鲜用射弹表态",
-          "url": "https://www.toutiao.com/trending/7566567225784536630/",
-          "source": "今日头条",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时19分"
-        },
-        {
           "title": "美国总统特朗普：我们正在为投资者快速发放许可。",
           "url": "https://flash.jin10.com/detail/20251029122632354800",
           "source": "金十数据",
@@ -1106,7 +1145,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时19分"
         },
@@ -1175,17 +1214,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时17分"
-        },
-        {
-          "title": "为特朗普扶车门的女保镖抢镜",
-          "url": "https://www.toutiao.com/trending/7565803485716254251/",
-          "source": "今日头条",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时19分"
         },
         {
           "title": "美国总统特朗普：我们将拥有一个非常繁荣的造船业。",
@@ -1276,6 +1304,17 @@
           "time_info": "00时35分"
         },
         {
+          "title": "大V：特朗普一句话暴露美军大问题",
+          "url": "https://www.toutiao.com/trending/7566568301048892934/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时15分"
+        },
+        {
           "title": "韩国总统办公室：美国总统特朗普将讨论贸易、投资等问题。",
           "url": "https://flash.jin10.com/detail/20251029101602715800",
           "source": "金十数据",
@@ -1353,17 +1392,6 @@
           "time_info": "00时35分"
         },
         {
-          "title": "韩国赠送特朗普礼物曝光",
-          "url": "https://www.baidu.com/s?wd=%E9%9F%A9%E5%9B%BD%E8%B5%A0%E9%80%81%E7%89%B9%E6%9C%97%E6%99%AE%E7%A4%BC%E7%89%A9%E6%9B%9D%E5%85%89",
-          "source": "百度热搜",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时19分"
-        },
-        {
           "title": "美国总统特朗普：美国工厂正在蓬勃发展。",
           "url": "https://flash.jin10.com/detail/20251029122125147800",
           "source": "金十数据",
@@ -1422,7 +1450,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 18,
+      "match_count": 21,
       "titles": [
         {
           "title": "贸易缓和提振美股新高，人民币两月最大涨幅，黄金失守4000美元，伦铜收创新高",
@@ -1474,6 +1502,28 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[03时15分 ~ 07时15分]"
+        },
+        {
+          "title": "礼来(LLY.N)美股盘前涨近1%，公司宣布沃尔玛将提供Zepbound注射剂的取药服务。",
+          "url": "https://flash.jin10.com/detail/20251029191217764800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时15分"
+        },
+        {
+          "title": "礼来美股盘前拉升，现涨近1%。此前礼来公司宣布，沃尔玛将提供Zepbound注射剂的取药服务。",
+          "url": "https://wallstreetcn.com/livenews/2995926",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时15分"
         },
         {
           "title": "美股收盘：三大股指续创新高 英伟达涨近5%",
@@ -1628,6 +1678,17 @@
           "time_info": "05时15分"
         },
         {
+          "title": "卡特彼勒第三季度营收176.4亿美元，预估167.1亿美元。 第三季度调整后每股收益4.95美元，预估4.51美元。 第三季度每股收益4.88美元，上年同期5.06美元。 第三季度调整后运营收益30.9亿美元，预估27.4亿美元。 卡特彼勒美股盘前涨近5%。",
+          "url": "https://wallstreetcn.com/livenews/2995885",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时15分"
+        },
+        {
           "title": "美股三大股指续创新高 英伟达涨近5%",
           "url": "https://www.toutiao.com/trending/7565586029471088681/",
           "source": "今日头条",
@@ -1715,11 +1776,12 @@
           "source": "微博",
           "ranks": [
             19,
-            12
+            12,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时18分 ~ 18时19分]"
+          "appearance_count": 3,
+          "time_info": "[17时18分 ~ 19时15分]"
         },
         {
           "title": "金价是否会重现上世纪80年代到上世纪末的最长熊市？",
@@ -1831,6 +1893,18 @@
           "time_info": "[00时35分 ~ 11时15分]"
         },
         {
+          "title": "OpenAI达成重磅协议向营利组织转型，微软持股27%，AI模型授权延至2032年，Azure获2500亿订单",
+          "url": "https://wallstreetcn.com/articles/3758104",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[11时15分 ~ 19时15分]"
+        },
+        {
           "title": "PayPal成为ChatGPT首个支付钱包 盘前一度涨超15%",
           "url": "https://www.cls.cn/detail/2183840",
           "source": "财联社热门",
@@ -1841,18 +1915,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时35分 ~ 06时18分]"
-        },
-        {
-          "title": "OpenAI达成重磅协议向营利组织转型，微软持股27%，AI模型授权延至2032年，Azure获2500亿订单",
-          "url": "https://wallstreetcn.com/articles/3758104",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时15分 ~ 18时19分]"
         },
         {
           "title": "OpenAI首席执行官萨姆·奥尔特曼：OpenAI所有承诺的基础设施建设总量略超30吉瓦，总计约1.4万亿美元。",
