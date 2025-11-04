@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-04T17:21:12.496289+08:00",
-  "total_titles_processed": 1541,
+  "generated_at": "2025-11-04T18:20:46.729151+08:00",
+  "total_titles_processed": 1623,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 44,
+      "match_count": 49,
       "titles": [
         {
           "title": "特朗普称中方秘密测试核武器，外交部回应",
@@ -79,8 +79,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时19分 ~ 17时21分]"
+          "appearance_count": 25,
+          "time_info": "[00时19分 ~ 18时20分]"
         },
         {
           "title": "美稀土磁体初创公司与特朗普政府敲定14亿美元交易",
@@ -193,6 +193,17 @@
           "time_info": "[00时19分 ~ 05时17分]"
         },
         {
+          "title": "BBC又翻车？被曝“篡改”特朗普演讲稿，制造“煽动骚乱”假象",
+          "url": "https://news.ifeng.com/c/8o0Gc0LQ9TP",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时17分 ~ 18时20分]"
+        },
+        {
           "title": "美国总统特朗普的政府官员们表示，将对“补充营养援助计划”（SNAP）提供局部资金。 特朗普的司法部称，11月份将可以获得50%的食品救济资金。 此前，特朗普政府因为联邦政府关门期间的SNAP资金问题而败诉。",
           "url": "https://wallstreetcn.com/livenews/2998687",
           "source": "华尔街见闻-快讯",
@@ -215,15 +226,15 @@
           "time_info": "01时16分"
         },
         {
-          "title": "BBC又翻车？被曝“篡改”特朗普演讲稿，制造“煽动骚乱”假象",
-          "url": "https://news.ifeng.com/c/8o0Gc0LQ9TP",
+          "title": "民主党人领跑市长选战，特朗普威胁或对纽约“断供”",
+          "url": "https://news.ifeng.com/c/8o0cBvF0n9M",
           "source": "凤凰网",
           "ranks": [
-            8
+            5
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时17分 ~ 17时21分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时20分"
         },
         {
           "title": "美联储理事库克自特朗普起诉她以来首次公开讲话，称：还没有就12月降息与否做决定。 （在9月份和10月份都）支持FOMC降息，因为就业市场面临的风险超过通胀风险。 当前政策仍然具有适度的限制性。",
@@ -299,6 +310,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[15时17分 ~ 16时24分]"
+        },
+        {
+          "title": "中方回应特朗普威胁对尼日利亚动武",
+          "url": "https://www.toutiao.com/trending/7568256133530566719/",
+          "source": "今日头条",
+          "ranks": [
+            30,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时20分 ~ 18时20分]"
         },
         {
           "title": "特朗普对华政策的思路真改变了吗",
@@ -383,15 +406,15 @@
           "time_info": "[17时20分 ~ 17时21分]"
         },
         {
-          "title": "中方回应特朗普威胁对尼日利亚动武",
-          "url": "https://www.toutiao.com/trending/7568256133530566719/",
+          "title": "特朗普称对中国与其打压不如合作",
+          "url": "https://www.toutiao.com/trending/7568736208902324287/",
           "source": "今日头条",
           "ranks": [
-            30
+            8
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时20分 ~ 17时21分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时20分"
         },
         {
           "title": "日本首相高市早苗：将与特朗普举行更多会晤以深化关系。",
@@ -436,6 +459,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时20分"
+        },
+        {
+          "title": "为避免激怒特朗普 欧盟领导人将缺席拉美峰会",
+          "url": "https://flash.jin10.com/detail/20251104175550532800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时20分"
         },
         {
           "title": "美国总统特朗普：要求交通运输部长Duffee考虑终结纽约市的交通拥堵收费政策。",
@@ -515,6 +549,17 @@
           "time_info": "09时17分"
         },
         {
+          "title": "市场消息：欧盟领导人缺席拉丁美洲峰会以避免惹恼美国总统特朗普。",
+          "url": "https://flash.jin10.com/detail/20251104173742915800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时20分"
+        },
+        {
           "title": "美联储理事库克：不会就美国总统特朗普的解职意图进一步置评。",
           "url": "https://flash.jin10.com/detail/20251104031804973800",
           "source": "金十数据",
@@ -535,6 +580,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时17分"
+        },
+        {
+          "title": "周泳宏：特朗普想与中国和睦相处",
+          "url": "https://www.toutiao.com/trending/7568747917062704678/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时20分"
         }
       ]
     },
@@ -550,8 +606,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时17分 ~ 17时21分]"
+          "appearance_count": 12,
+          "time_info": "[09时17分 ~ 18时20分]"
         },
         {
           "title": "美股收盘：AI巨头唱独角戏 亚马逊、英伟达市值各增千亿美元",
@@ -635,6 +691,18 @@
           "time_info": "[09时17分 ~ 13时19分]"
         },
         {
+          "title": "美股盘前，Palantir跌约6%，公司此前公布了三季度财报； 半导体股普跌，英特尔跌约2%，台积电跌约1%，英伟达跌约1%。 中概股多数下跌，阿里巴巴跌约2%，蔚来跌约2%。",
+          "url": "https://wallstreetcn.com/livenews/2999122",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时21分 ~ 18时20分]"
+        },
+        {
           "title": "周一（11月3日）纽约尾盘，美元兑日元涨0.13%，报154.19日元，日内交投区间为153.93-154.30日元，北京时间21:40刷新日高，美股盘初显著跳水，23:00刷新日低。",
           "url": "https://wallstreetcn.com/livenews/2998745",
           "source": "华尔街见闻-快讯",
@@ -683,15 +751,16 @@
           "time_info": "[02时24分 ~ 03时15分]"
         },
         {
-          "title": "美股盘前，Palantir跌约6%，公司此前公布了三季度财报； 半导体股普跌，英特尔跌约2%，台积电跌约1%，英伟达跌约1%。 中概股多数下跌，阿里巴巴跌约2%，蔚来跌约2%。",
-          "url": "https://wallstreetcn.com/livenews/2999122",
+          "title": "华尔街多位CEO警告 美股可能因估值偏高出现逾10%的回调",
+          "url": "https://wallstreetcn.com/livenews/2999103",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            17,
+            22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时21分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时21分 ~ 18时20分]"
         },
         {
           "title": "美股七巨头收盘播报｜亚马逊涨4%创收盘历史新高，特斯拉和英伟达涨超2%，Meta则跌超2%",
@@ -755,18 +824,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时21分"
-        },
-        {
-          "title": "华尔街多位CEO警告 美股可能因估值偏高出现逾10%的回调",
-          "url": "https://wallstreetcn.com/livenews/2999103",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时21分"
         },
@@ -962,11 +1020,12 @@
           "ranks": [
             9,
             6,
-            5
+            5,
+            8
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[06时17分 ~ 17时21分]"
+          "appearance_count": 14,
+          "time_info": "[06时17分 ~ 18时20分]"
         },
         {
           "title": "亚马逊领千亿大单入伙 一文盘点OpenAI签了多少“愿景支票”",
@@ -1069,7 +1128,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时21分"
         }
