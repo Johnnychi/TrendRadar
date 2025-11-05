@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-05T09:17:34.331785+08:00",
-  "total_titles_processed": 790,
+  "generated_at": "2025-11-05T11:10:44.069383+08:00",
+  "total_titles_processed": 926,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 33,
+      "match_count": 38,
       "titles": [
         {
           "title": "民主党人领跑市长选战，特朗普威胁或对纽约“断供”",
@@ -56,6 +56,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时16分"
+        },
+        {
+          "title": "从伊拉克战争幕后推手到特朗普批评者，美国“影子总统”切尼逝世",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31894185",
+          "source": "澎湃新闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时10分"
+        },
+        {
+          "title": "特朗普突然威胁对尼日利亚动武，就因为他看了条福克斯新闻报道",
+          "url": "https://news.ifeng.com/c/8o11vuaIumr",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时10分"
         },
         {
           "title": "特朗普：与瑞士代表讨论了贸易及贸易逆差等重要议题",
@@ -241,6 +263,18 @@
           "time_info": "[00时34分 ~ 01时15分]"
         },
         {
+          "title": "最高法院周三见分晓，特朗普关税命运系于其亲手任命的三位大法官",
+          "url": "https://wallstreetcn.com/articles/3758648",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时17分 ~ 11时10分]"
+        },
+        {
           "title": "摩根大通：正在回应特朗普政府就本公司客户政策提出的要求。",
           "url": "https://wallstreetcn.com/livenews/2999421",
           "source": "华尔街见闻-快讯",
@@ -348,15 +382,37 @@
           "time_info": "[06时25分 ~ 06时26分]"
         },
         {
-          "title": "最高法院周三见分晓，特朗普关税命运系于其亲手任命的三位大法官",
-          "url": "https://wallstreetcn.com/articles/3758648",
-          "source": "华尔街见闻",
+          "title": "美国前财长称特朗普动用紧急权力课关税的做法“有毛病”",
+          "url": "https://wallstreetcn.com/livenews/2999566",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时17分"
+          "time_info": "11时10分"
+        },
+        {
+          "title": "特朗普将于当地时间上午8:30在与共和党参议员的早餐会上发表讲话。",
+          "url": "https://flash.jin10.com/detail/20251105100328874800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时10分"
+        },
+        {
+          "title": "美国前财长批评特朗普滥用紧急权力征收关税",
+          "url": "https://flash.jin10.com/detail/20251105100305577800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时10分"
         },
         {
           "title": "内塔尼亚胡因涉嫌受贿受审，特朗普：美国将出手干预帮他脱身",
@@ -365,7 +421,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时17分"
         },
@@ -376,7 +432,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时17分"
         },
@@ -406,7 +462,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 20,
+      "match_count": 25,
       "titles": [
         {
           "title": "算力协议力挺Mag 7，亚马逊股价新高，美股分化加剧，加密货币大跌，以太坊重挫",
@@ -427,11 +483,12 @@
           "ranks": [
             8,
             7,
-            6
+            6,
+            11
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时34分 ~ 09时17分]"
+          "appearance_count": 13,
+          "time_info": "[00时34分 ~ 11时10分]"
         },
         {
           "title": "“黑色星期二”：纳指领跌美股，英伟达跌4%，币圈连遭血洗，金银油齐跌，美元五连阳",
@@ -440,9 +497,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时17分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时17分 ~ 11时10分]"
         },
         {
           "title": "美股期货跌幅扩大，标普500指数期货现跌0.5%，纳斯达克100指数期货跌0.7%。",
@@ -451,9 +508,21 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时17分"
+        },
+        {
+          "title": "美股收盘：“大空头”点燃估值忧虑 纳指跌超2%",
+          "url": "https://www.cls.cn/detail/2191216",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时16分 ~ 11时10分]"
         },
         {
           "title": "美股AI短线交易员周二救市失败，分析师称周三恐出现另一轮下跌",
@@ -467,16 +536,15 @@
           "time_info": "07时16分"
         },
         {
-          "title": "美股收盘：“大空头”点燃估值忧虑 纳指跌超2%",
-          "url": "https://www.cls.cn/detail/2191216",
-          "source": "财联社热门",
+          "title": "全球风险资产遭遇黑色星期二，美股全线大跌，黄金下破 3930 美元，比特币跌破 10.3 万美元，发生了什么？",
+          "url": "https://www.zhihu.com/question/1969182296755122552",
+          "source": "知乎",
           "ranks": [
-            7,
-            2
+            5
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时16分 ~ 09时17分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时10分"
         },
         {
           "title": "美股散户指数创特朗普关税日以来的最大跌幅",
@@ -551,15 +619,37 @@
           "time_info": "[06时26分 ~ 07时16分]"
         },
         {
+          "title": "估值担忧波及亚洲市场，日韩股市大跌超4%，美股期货延续跌势，比特币跌破99000美元",
+          "url": "https://wallstreetcn.com/articles/3758696",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时10分"
+        },
+        {
           "title": "美股天价估值持续性遭质疑，日韩股市跟跌",
           "url": "https://flash.jin10.com/detail/20251105085939810800",
           "source": "金十数据",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时17分"
+        },
+        {
+          "title": "美联储内部分歧引发年内降息前景疑虑，美元走强致现货黄金一度跌破3920美元关口；隔夜美股大跌，投资者怀疑高估值与市场集中度过窄会否终结本轮牛市行情，当前美股纳指、标普500指数卖出信号强烈，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
+          "url": "https://flash.jin10.com/detail/20251105103351647800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时10分"
         },
         {
           "title": "AMD美股盘后跌幅重新扩大至1.88%，该公司CEO苏姿丰正在分析师电话会议上讲话。",
@@ -579,7 +669,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时17分"
         },
@@ -590,7 +680,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时17分"
         },
@@ -601,9 +691,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时17分"
+        },
+        {
+          "title": "突发！美股AI泡沫恐慌情绪蔓延 日韩股市崩盘",
+          "url": "https://www.cls.cn/detail/2191349",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时10分"
         },
         {
           "title": "美股收盘：百度涨超3%",
@@ -612,9 +713,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时17分"
+        },
+        {
+          "title": "美股大跌都怪Palantir？CNBC名嘴：华尔街的眼光太狭隘",
+          "url": "https://flash.jin10.com/detail/20251105095353867800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时10分"
         },
         {
           "title": "超微电脑第一财季净销售50.2亿美元，分析师预期60.9亿美元。预计全年净销售至少360亿美元，公司原本预计至少330亿美元。预计第二财季净销售100亿-110亿美元，分析师预期80.5亿美元。超微电脑美股盘后跌超10%。",
@@ -712,79 +824,18 @@
           "url": "https://www.cls.cn/detail/2191270",
           "source": "财联社热门",
           "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时17分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "美元指数4日上涨",
-          "url": "https://flash.jin10.com/detail/20251105043654258800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时17分"
-        },
-        {
-          "title": "民生宏观：美元指数再破100 但升值周期未至",
-          "url": "https://flash.jin10.com/detail/20251105033633355800",
-          "source": "金十数据",
-          "ranks": [
-            12,
-            18
+            10,
+            12
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[04时20分 ~ 05时17分]"
-        },
-        {
-          "title": "美元指数突破100大关，为8月1日来首次",
-          "url": "https://wallstreetcn.com/articles/3758608",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时17分"
-        },
-        {
-          "title": "周二（11月4日）纽约尾盘，ICE美元指数涨0.38%，刷新日高至100.255点，北京时间15:42微幅下跌至99.743点，随后持续走高。 彭博美元指数涨0.38%，刷新日高至1226.13点，15:32刷新日低至1220.99点之后，也持续上扬。",
-          "url": "https://wallstreetcn.com/livenews/2999387",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时17分"
-        },
-        {
-          "title": "恒天然：11月4日全球乳品贸易（GDT）拍卖价格指数下降2.4%，奶粉各合同期FAS拍卖均价3,768美元/吨。 批发奶粉价格指数下降2.7%，报3,503美元/吨。",
-          "url": "https://wallstreetcn.com/livenews/2999277",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时34分"
+          "time_info": "[09时17分 ~ 11时10分]"
         }
       ]
     },
     {
       "keyword_group": "金价",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "金价",
@@ -826,17 +877,91 @@
           "url": "https://www.zhihu.com/question/1968706446079299701",
           "source": "知乎",
           "ranks": [
-            17
+            17,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时16分 ~ 11时10分]"
+        },
+        {
+          "title": "金十图示：2025年11月05日（周三）上海金早盘价为904.68元/克，较国际金价(903.54元/克)，高1.14元/克",
+          "url": "https://flash.jin10.com/detail/20251105101740650800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时10分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "美元指数4日上涨",
+          "url": "https://flash.jin10.com/detail/20251105043654258800",
+          "source": "金十数据",
+          "ranks": [
+            3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时16分"
+          "time_info": "05时17分"
+        },
+        {
+          "title": "民生宏观：美元指数再破100 但升值周期未至",
+          "url": "https://flash.jin10.com/detail/20251105033633355800",
+          "source": "金十数据",
+          "ranks": [
+            12,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时20分 ~ 05时17分]"
+        },
+        {
+          "title": "美元指数突破100大关，为8月1日来首次",
+          "url": "https://wallstreetcn.com/articles/3758608",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时17分"
+        },
+        {
+          "title": "周二（11月4日）纽约尾盘，ICE美元指数涨0.38%，刷新日高至100.255点，北京时间15:42微幅下跌至99.743点，随后持续走高。 彭博美元指数涨0.38%，刷新日高至1226.13点，15:32刷新日低至1220.99点之后，也持续上扬。",
+          "url": "https://wallstreetcn.com/livenews/2999387",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时17分"
+        },
+        {
+          "title": "恒天然：11月4日全球乳品贸易（GDT）拍卖价格指数下降2.4%，奶粉各合同期FAS拍卖均价3,768美元/吨。 批发奶粉价格指数下降2.7%，报3,503美元/吨。",
+          "url": "https://wallstreetcn.com/livenews/2999277",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时34分"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "OpenAI 禁止 ChatGPT 提供专业医疗、法律、金融建议，这背后的原因是什么？",
@@ -845,9 +970,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时17分"
+        },
+        {
+          "title": "OpenAI 被传禁止 ChatGPT 提供专业医疗法律金融建议后表示说法不实，这些建议应该被禁止吗？",
+          "url": "https://www.zhihu.com/question/1968690991750967598",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时10分"
         }
       ]
     },
