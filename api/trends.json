@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-08T21:22:13.445043+08:00",
-  "total_titles_processed": 1468,
+  "generated_at": "2025-11-08T22:14:34.709556+08:00",
+  "total_titles_processed": 1515,
   "failed_sources": [],
   "trends": [
     {
@@ -44,6 +44,18 @@
           "time_info": "[00时19分 ~ 07时17分]"
         },
         {
+          "title": "南非政府发表声明驳斥特朗普言论",
+          "url": "https://news.ifeng.com/c/8o7E8T6RYDN",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[17时15分 ~ 22时14分]"
+        },
+        {
           "title": "特朗普首席经济顾问：政府关门对经济影响远比预期严重，美Q4 GDP增速恐减半",
           "url": "https://wallstreetcn.com/articles/3758942",
           "source": "华尔街见闻",
@@ -54,20 +66,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[15时15分 ~ 21时22分]"
-        },
-        {
-          "title": "南非政府发表声明驳斥特朗普言论",
-          "url": "https://news.ifeng.com/c/8o7E8T6RYDN",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时15分 ~ 21时22分]"
+          "appearance_count": 11,
+          "time_info": "[15时15分 ~ 22时14分]"
         },
         {
           "title": "85岁佩洛西将退休，回顾她与特朗普交锋历史：夸张鼓掌、手撕演讲稿...",
@@ -118,11 +118,12 @@
           "ranks": [
             1,
             4,
-            6
+            6,
+            11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时15分 ~ 21时22分]"
+          "appearance_count": 4,
+          "time_info": "[19时15分 ~ 22时14分]"
         },
         {
           "title": "特朗普被问急眼了怒喷记者",
@@ -194,6 +195,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[11时02分 ~ 13时16分]"
+        },
+        {
+          "title": "塞尔维亚吵翻了：拆北约轰炸遗址给特朗普家酒店让路",
+          "url": "https://news.ifeng.com/c/8o7TfqD4rXd",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时34分 ~ 22时14分]"
         },
         {
           "title": "美国总统特朗普：期待2026年在美国迈阿密轮值主办二十国集团（G20）峰会。",
@@ -346,17 +358,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[18时16分 ~ 21时22分]"
-        },
-        {
-          "title": "塞尔维亚吵翻了：拆北约轰炸遗址给特朗普家酒店让路",
-          "url": "https://news.ifeng.com/c/8o7TfqD4rXd",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时34分 ~ 21时22分]"
         },
         {
           "title": "美国总统特朗普：谈及会见俄罗斯总统普京的事宜。 若有可能，我愿意在匈牙利布达佩斯会见普京。",
@@ -730,8 +731,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[07时17分 ~ 21时22分]"
+          "appearance_count": 22,
+          "time_info": "[07时17分 ~ 22时14分]"
         },
         {
           "title": "市场情绪依然疲弱 美股三大期指继续走低 | 今夜看点",
@@ -982,18 +983,6 @@
       "match_count": 3,
       "titles": [
         {
-          "title": "OpenAI“大而不能倒”？，Altman“不寻求财政支持”，“AI沙皇”：AI公司倒了就倒了，美国政府不会救",
-          "url": "https://wallstreetcn.com/articles/3758853",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时19分 ~ 04时17分]"
-        },
-        {
           "title": "不止希望政府担保，10月底OpenAI致信特朗普政府，要求“扩大税收抵扣”以降低数据中心成本",
           "url": "https://wallstreetcn.com/articles/3758970",
           "source": "华尔街见闻",
@@ -1005,8 +994,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时15分 ~ 21时22分]"
+          "appearance_count": 9,
+          "time_info": "[17时15分 ~ 22时14分]"
+        },
+        {
+          "title": "OpenAI“大而不能倒”？，Altman“不寻求财政支持”，“AI沙皇”：AI公司倒了就倒了，美国政府不会救",
+          "url": "https://wallstreetcn.com/articles/3758853",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时19分 ~ 04时17分]"
         },
         {
           "title": "OpenAI呼吁特朗普政府改革《芯片法案》税收抵免，以支持AI基础设施建设",
@@ -1050,8 +1051,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[16时21分 ~ 21时22分]"
+          "appearance_count": 10,
+          "time_info": "[16时21分 ~ 22时14分]"
         },
         {
           "title": "美国10年期国债收益率短线走低，在美国消费者信心创逾三年新低之际回落至4.0850%下方，完全回吐日内稍早涨幅。 两年期美债收益率跌至3.55%下方；10年期TIPS收益率回落至1.8150%下方，两年期TIPS收益率暂时守住1.02%。 彭博美元指数刷新日低。 标普500指数跌幅收窄至0.54%，纳斯达克综合指数一度下跌1.53%——目前收窄至不到1%。 现货黄金持稳于3990美元上方，日内当前涨幅将近0.4%。 比特币转涨，重返10.1万美元上方。",
