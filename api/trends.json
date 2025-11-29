@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-29T14:24:17.032815+08:00",
-  "total_titles_processed": 943,
+  "generated_at": "2025-11-29T15:15:50.207840+08:00",
+  "total_titles_processed": 987,
   "failed_sources": [],
   "trends": [
     {
@@ -179,11 +179,12 @@
           "ranks": [
             21,
             13,
-            8
+            8,
+            15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时16分 ~ 14时24分]"
+          "appearance_count": 5,
+          "time_info": "[13时16分 ~ 15时15分]"
         },
         {
           "title": "特朗普宣布：拜登任内通过“自动签名笔”签署的所有文件即刻终止效力",
@@ -193,11 +194,12 @@
             9,
             15,
             17,
-            23
+            23,
+            26
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时10分 ~ 14时24分]"
+          "appearance_count": 5,
+          "time_info": "[11时10分 ~ 15时15分]"
         },
         {
           "title": "日本学者点破特朗普真实想法",
@@ -311,18 +313,6 @@
           "time_info": "[00时20分 ~ 06时15分]"
         },
         {
-          "title": "美股三大期指小幅走高 CME交易中断引发关注 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2214556",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时20分 ~ 14时24分]"
-        },
-        {
           "title": "美股收盘：三大指数连涨五个交易日 英特尔股价暴升10%",
           "url": "https://www.cls.cn/detail/2214656",
           "source": "财联社热门",
@@ -333,8 +323,20 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时15分 ~ 14时24分]"
+          "appearance_count": 10,
+          "time_info": "[07时15分 ~ 15时15分]"
+        },
+        {
+          "title": "美股三大期指小幅走高 CME交易中断引发关注 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2214556",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[00时20分 ~ 15时15分]"
         },
         {
           "title": "金十图示：2025年11月28日（周五）美股热门股票行情一览（美股收盘）",
@@ -574,8 +576,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时09分 ~ 14时24分]"
+          "appearance_count": 8,
+          "time_info": "[11时09分 ~ 15时15分]"
         },
         {
           "title": "但斌发声：国内能对标谷歌的公司，我觉得可能只有两家",
@@ -586,8 +588,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时16分 ~ 14时24分]"
+          "appearance_count": 5,
+          "time_info": "[13时16分 ~ 15时15分]"
         }
       ]
     },
@@ -601,11 +603,12 @@
           "source": "抖音",
           "ranks": [
             14,
-            11
+            11,
+            17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时16分 ~ 14时24分]"
+          "appearance_count": 5,
+          "time_info": "[13时16分 ~ 15时15分]"
         },
         {
           "title": "金价",
