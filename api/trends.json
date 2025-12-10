@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-10T13:19:26.508310+08:00",
-  "total_titles_processed": 1179,
+  "generated_at": "2025-12-10T14:28:49.904288+08:00",
+  "total_titles_processed": 1287,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 56,
+      "match_count": 60,
       "titles": [
         {
           "title": "胡锡进：特朗普对H200放行，显然受到了两大压力",
@@ -42,8 +42,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时34分 ~ 13时19分]"
+          "appearance_count": 15,
+          "time_info": "[00时34分 ~ 14时28分]"
         },
         {
           "title": "特朗普现在很焦虑",
@@ -53,8 +53,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时19分 ~ 13时19分]"
+          "appearance_count": 6,
+          "time_info": "[09时19分 ~ 14时28分]"
         },
         {
           "title": "环球网：特朗普宣布允许英伟达向中国出售H200芯片",
@@ -171,6 +171,17 @@
           "time_info": "[00时34分 ~ 03时14分]"
         },
         {
+          "title": "特朗普：泰柬又打起来了，我得打个电话",
+          "url": "https://news.ifeng.com/c/8oyCMciyCox",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时28分"
+        },
+        {
           "title": "美国总统特朗普：我听说自动签名笔可能已经签署了对美联储理事会中一些民主党人的任命。",
           "url": "https://flash.jin10.com/detail/20251210090040529800",
           "source": "金十数据",
@@ -253,6 +264,19 @@
           "time_info": "[06时18分 ~ 07时17分]"
         },
         {
+          "title": "特朗普称泽连斯基赚走拜登3500亿美元",
+          "url": "https://www.toutiao.com/trending/7581084674962473014/",
+          "source": "今日头条",
+          "ranks": [
+            29,
+            8,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时31分 ~ 14时28分]"
+        },
+        {
           "title": "泽连斯基回应特朗普：可在60至90天做好选举准备",
           "url": "https://news.ifeng.com/c/8oxUGggjWaR",
           "source": "凤凰网",
@@ -300,16 +324,16 @@
           "time_info": "[06时18分 ~ 07时17分]"
         },
         {
-          "title": "特朗普称泽连斯基赚走拜登3500亿美元",
-          "url": "https://www.toutiao.com/trending/7581084674962473014/",
+          "title": "邵永灵：特朗普正用国家权力变现",
+          "url": "https://www.toutiao.com/trending/7582064656005467699/",
           "source": "今日头条",
           "ranks": [
-            29,
-            8
+            30,
+            15
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时31分 ~ 13时19分]"
+          "time_info": "[13时19分 ~ 14时28分]"
         },
         {
           "title": "欧盟重罚X平台遭特朗普抨击",
@@ -422,6 +446,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时20分"
+        },
+        {
+          "title": "特朗普：泽连斯基拿了千亿却丢25%国土",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%E6%8B%BF%E4%BA%86%E5%8D%83%E4%BA%BF%E5%8D%B4%E4%B8%A225%25%E5%9B%BD%E5%9C%9F",
+          "source": "百度热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时28分"
         },
         {
           "title": "美国总统特朗普：政府拯救了美国钢铁公司 ，这家现在由日本制铁公司拥有的公司“炙手可热”。",
@@ -589,6 +624,17 @@
           "time_info": "09时20分"
         },
         {
+          "title": "特朗普抱怨为什么收垃圾国家移民",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%8A%B1%E6%80%A8%E4%B8%BA%E4%BB%80%E4%B9%88%E6%94%B6%E5%9E%83%E5%9C%BE%E5%9B%BD%E5%AE%B6%E7%A7%BB%E6%B0%91%23&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时28分"
+        },
+        {
           "title": "以色列议会议长阿米尔·奥哈纳和美国众议院议长约翰逊共同发起了一项全球议会倡议，提名特朗普角逐2026年诺贝尔和平奖。",
           "url": "https://flash.jin10.com/detail/20251210041816454800",
           "source": "金十数据",
@@ -622,6 +668,17 @@
           "time_info": "05时15分"
         },
         {
+          "title": "特朗普厕所门口受访被人推门撞到",
+          "url": "https://www.toutiao.com/trending/7582097221663936046/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时28分"
+        },
+        {
           "title": "英媒：特朗普“施压”泽连斯基几日内回应和平提议 盼圣诞前达成协议",
           "url": "https://flash.jin10.com/detail/20251210022230589800",
           "source": "金十数据",
@@ -642,17 +699,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时35分"
-        },
-        {
-          "title": "邵永灵：特朗普正用国家权力变现",
-          "url": "https://www.toutiao.com/trending/7582064656005467699/",
-          "source": "今日头条",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时19分"
         }
       ]
     },
@@ -694,8 +740,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时17分 ~ 13时19分]"
+          "appearance_count": 7,
+          "time_info": "[07时17分 ~ 14时28分]"
         },
         {
           "title": "金十图示：2025年12月09日（周二）热门中概股行情一览（美股收盘）",
@@ -904,8 +950,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时19分 ~ 13时19分]"
+          "appearance_count": 6,
+          "time_info": "[09时19分 ~ 14时28分]"
         },
         {
           "title": "谷歌云：推出由Gemini驱动的编码智能体AlphaEvolve，可用于设计高级算法，现已开启私密预览。",
@@ -966,8 +1012,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时19分 ~ 13时19分]"
+          "appearance_count": 6,
+          "time_info": "[09时19分 ~ 14时28分]"
         },
         {
           "title": "美债价格在美国职位空缺数据发布后显著下挫",
