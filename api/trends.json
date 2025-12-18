@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-18T17:24:22.598012+08:00",
-  "total_titles_processed": 1547,
+  "generated_at": "2025-12-18T18:20:09.810449+08:00",
+  "total_titles_processed": 1635,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 57,
+      "match_count": 58,
       "titles": [
         {
           "title": "特朗普称委内瑞拉政府“外国恐怖组织”，21世纪再现“大棒加胡萝卜”",
@@ -35,8 +35,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[07时17分 ~ 17时24分]"
+          "appearance_count": 13,
+          "time_info": "[07时17分 ~ 18时20分]"
         },
         {
           "title": "特朗普有“酒鬼性格”，万斯“阴谋论者”，马斯克“嗑药的怪人”...“白宫大管家”的炸裂采访爆了",
@@ -68,11 +68,12 @@
           "ranks": [
             8,
             2,
-            4
+            4,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时20分 ~ 17时24分]"
+          "appearance_count": 5,
+          "time_info": "[15时20分 ~ 18时20分]"
         },
         {
           "title": "美国记者卡尔森：特朗普或将对委内瑞拉宣战",
@@ -135,6 +136,17 @@
           "time_info": "[12时32分 ~ 13时20分]"
         },
         {
+          "title": "“宣战”猜测甚嚣尘上，特朗普全国讲话却只字未提",
+          "url": "https://news.ifeng.com/c/8pBZNpaMDrn",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时25分 ~ 18时20分]"
+        },
+        {
           "title": "美国总统特朗普在自家社交媒体平台谈论NBC和ABC，称：电视网络占用公共电波资源应当获得适当的许可证。 该行业应该支付“大量资金”，它们应该为了这个有价值的空间付费。",
           "url": "https://wallstreetcn.com/livenews/3022602",
           "source": "华尔街见闻-快讯",
@@ -171,6 +183,18 @@
           "time_info": "[04时20分 ~ 05时17分]"
         },
         {
+          "title": "特朗普即将宣布新任美联储主席人选：必须认同低利率！",
+          "url": "https://www.cls.cn/detail/2233203",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时24分 ~ 18时20分]"
+        },
+        {
           "title": "特朗普将发表全国讲话强调政绩",
           "url": "https://www.douyin.com/hot/2339868",
           "source": "抖音",
@@ -193,17 +217,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时31分 ~ 13时20分]"
-        },
-        {
-          "title": "“宣战”猜测甚嚣尘上，特朗普全国讲话却只字未提",
-          "url": "https://news.ifeng.com/c/8pBZNpaMDrn",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时25分 ~ 17时24分]"
         },
         {
           "title": "特朗普政府计划拆解主要气候研究中心",
@@ -401,17 +414,6 @@
           "time_info": "14时28分"
         },
         {
-          "title": "特朗普即将宣布新任美联储主席人选：必须认同低利率！",
-          "url": "https://www.cls.cn/detail/2233203",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时24分"
-        },
-        {
           "title": "委内瑞拉总统马杜罗周三表示，在美国总统特朗普下令封锁进出委内瑞拉的油轮之后，委内瑞拉将继续进行石油贸易。",
           "url": "https://flash.jin10.com/detail/20251218104718187800",
           "source": "金十数据",
@@ -443,6 +445,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时28分"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-18）",
+          "url": "https://flash.jin10.com/detail/20251218175046915800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时20分"
         },
         {
           "title": "特朗普：美联储新主席将会认同大幅降息",
@@ -680,8 +693,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[06时17分 ~ 17时24分]"
+          "appearance_count": 14,
+          "time_info": "[06时17分 ~ 18时20分]"
         },
         {
           "title": "美股收盘：甲骨文带崩大盘 三大指数齐跌 纳指跌近2%",
@@ -708,17 +721,6 @@
           "time_info": "[01时21分 ~ 05时17分]"
         },
         {
-          "title": "美光科技美股盘前涨超9%，芯片需求旺盛，美光业绩与指引双双“爆表”。",
-          "url": "https://wallstreetcn.com/livenews/3023017",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时24分"
-        },
-        {
           "title": "（美股）费城金银指数收涨0.86%，报338.32点。 （全球时段）纽约证交所ARCA金矿开采商指数收涨1.29%，报2409.16点，亚太盘初以来维持上涨状态，大部分时间持稳于2390点附近。",
           "url": "https://wallstreetcn.com/livenews/3022622",
           "source": "华尔街见闻-快讯",
@@ -741,6 +743,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时16分 ~ 09时17分]"
+        },
+        {
+          "title": "美光科技美股盘前涨超9%，芯片需求旺盛，美光业绩与指引双双“爆表”。",
+          "url": "https://wallstreetcn.com/livenews/3023017",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时24分 ~ 18时20分]"
         },
         {
           "title": "半导体ETF收跌3.6%，领跌美股行业ETF，标普能源板块反弹2.2%",
@@ -964,7 +978,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时24分"
         },
@@ -996,6 +1010,18 @@
       "keyword_group": "chatgpt openai",
       "match_count": 10,
       "titles": [
+        {
+          "title": "AI新子弹要来了！报道称OpenAI正探讨“数百亿甚至1000亿美元融资”",
+          "url": "https://wallstreetcn.com/articles/3761607",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时28分 ~ 18时20分]"
+        },
         {
           "title": "OpenAI：开发者们现在可以向ChatGPT上传APPs。",
           "url": "https://flash.jin10.com/detail/20251218063011323800",
@@ -1040,18 +1066,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[15时20分 ~ 17时24分]"
-        },
-        {
-          "title": "AI新子弹要来了！报道称OpenAI正探讨“数百亿甚至1000亿美元融资”",
-          "url": "https://wallstreetcn.com/articles/3761607",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时28分 ~ 17时24分]"
         },
         {
           "title": "OpenAI：开发者们现在可以向ChatGPT上传APPs。 在ChatGPT内引入一个APP目录。 将在新年推出第一批经过批准的APPs。",
