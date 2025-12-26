@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-26T16:24:13.845738+08:00",
-  "total_titles_processed": 1219,
+  "generated_at": "2025-12-26T17:20:37.570814+08:00",
+  "total_titles_processed": 1319,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "肯尼迪中心冠特朗普名后，年度音乐会取消",
@@ -28,8 +28,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时22分 ~ 16时24分]"
+          "appearance_count": 10,
+          "time_info": "[11时22分 ~ 17时20分]"
         },
         {
           "title": "特朗普官宣“黄金舰队”计划：真不是冲着中国，两国关系可好了",
@@ -141,8 +141,19 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时23分 ~ 16时24分]"
+          "appearance_count": 3,
+          "time_info": "[16时23分 ~ 17时20分]"
+        },
+        {
+          "title": "美媒自问自答：特朗普“黄金舰队”能匹敌中国吗？难",
+          "url": "https://news.ifeng.com/c/8pOsqY3DwLX",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时20分"
         },
         {
           "title": "美媒：为试图减少对中国供应链依赖，特朗普政府推动补贴电池产业",
@@ -228,7 +239,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时24分"
         }
@@ -248,8 +259,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时22分 ~ 16时24分]"
+          "appearance_count": 10,
+          "time_info": "[11时22分 ~ 17时20分]"
         },
         {
           "title": "金价、银价、铜价，均创历史新高，发生了什么？后市怎么走？",
@@ -269,6 +280,19 @@
           "time_info": "[00时21分 ~ 09时20分]"
         },
         {
+          "title": "金价疯涨一年突破4500美元，银行理财相关产品却在大幅收缩，头部公司二元看涨策略全面退场",
+          "url": "https://www.cls.cn/detail/2240558",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时27分 ~ 17时20分]"
+        },
+        {
           "title": "金十图示：2025年12月26日（周五）上海金午盘价为1009.96元/克，较国际金价(1016.24元/克)，低6.28元/克",
           "url": "https://flash.jin10.com/detail/20251226150518760800",
           "source": "金十数据",
@@ -278,18 +302,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时20分"
-        },
-        {
-          "title": "金价疯涨一年突破4500美元，银行理财相关产品却在大幅收缩，头部公司二元看涨策略全面退场",
-          "url": "https://www.cls.cn/detail/2240558",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时27分 ~ 16时24分]"
         },
         {
           "title": "加拿大皇家银行BlueBay资管公司首席投资官马克·道丁：新任美联储主席不会简单迎合特朗普，金价或难重现2025年强劲涨幅。（每经网）",
@@ -408,7 +420,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时24分"
         },
@@ -419,7 +431,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时24分"
         },
@@ -480,8 +492,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时21分 ~ 16时24分]"
+          "appearance_count": 22,
+          "time_info": "[00时21分 ~ 17时20分]"
         }
       ]
     },
