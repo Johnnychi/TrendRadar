@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-27T20:33:22.599935+08:00",
-  "total_titles_processed": 1343,
+  "generated_at": "2025-12-27T21:26:52.546871+08:00",
+  "total_titles_processed": 1417,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 28,
+      "match_count": 29,
       "titles": [
         {
           "title": "特朗普圣诞夜动手！美国空袭尼日利亚，目标直指石油和稀土？",
@@ -28,6 +28,18 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时20分 ~ 07时17分]"
+        },
+        {
+          "title": "特朗普回应泽连斯基：没我，你啥都不是",
+          "url": "https://news.ifeng.com/c/8pQGvvrjsvt",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时22分 ~ 21时26分]"
         },
         {
           "title": "美国总统特朗普将于当地时间周日下午3点在海湖庄园会见泽连斯基。",
@@ -58,18 +70,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[11时20分 ~ 12时31分]"
-        },
-        {
-          "title": "特朗普回应泽连斯基：没我，你啥都不是",
-          "url": "https://news.ifeng.com/c/8pQGvvrjsvt",
-          "source": "凤凰网",
-          "ranks": [
-            4,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时22分 ~ 20时33分]"
         },
         {
           "title": "美媒：泽连斯基“准备”就特朗普停火计划举行公投",
@@ -108,8 +108,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时16分 ~ 20时33分]"
+          "appearance_count": 8,
+          "time_info": "[15时16分 ~ 21时26分]"
         },
         {
           "title": "特朗普：未经我批准 泽连斯基一无所有",
@@ -160,6 +160,17 @@
           "time_info": "05时16分"
         },
         {
+          "title": "她说特朗普有“酒鬼性格”",
+          "url": "https://news.ifeng.com/c/8pQlyArpb5f",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时26分"
+        },
+        {
           "title": "特朗普：美国目前没有承认索马里兰的计划",
           "url": "https://flash.jin10.com/detail/20251227140350372800",
           "source": "金十数据",
@@ -193,11 +204,12 @@
           "source": "金十数据",
           "ranks": [
             4,
-            17
+            17,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时14分 ~ 20时33分]"
+          "appearance_count": 3,
+          "time_info": "[19时14分 ~ 21时26分]"
         },
         {
           "title": "美国参议员们呼吁特朗普政府暂停提高国家公园门票价格",
@@ -276,6 +288,18 @@
           "time_info": "[06时18分 ~ 07时17分]"
         },
         {
+          "title": "乌克兰总统泽连斯基：美国提供的安全保障将取决于美国总统特朗普准备提供什么。",
+          "url": "https://flash.jin10.com/detail/20251227191857626800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时33分 ~ 21时26分]"
+        },
+        {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-27）",
           "url": "https://flash.jin10.com/detail/20251227180421799800",
           "source": "金十数据",
@@ -286,6 +310,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[19时14分 ~ 20时33分]"
+        },
+        {
+          "title": "特朗普为何又索要盟友的领土",
+          "url": "https://www.toutiao.com/trending/7588483119292878372/",
+          "source": "今日头条",
+          "ranks": [
+            19,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时33分 ~ 21时26分]"
         },
         {
           "title": "乌总统：乌美安全保障协议接近完成，签署取决于与特朗普会晤",
@@ -309,28 +345,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时30分 ~ 12时31分]"
-        },
-        {
-          "title": "乌克兰总统泽连斯基：美国提供的安全保障将取决于美国总统特朗普准备提供什么。",
-          "url": "https://flash.jin10.com/detail/20251227191857626800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时33分"
-        },
-        {
-          "title": "特朗普为何又索要盟友的领土",
-          "url": "https://www.toutiao.com/trending/7588483119292878372/",
-          "source": "今日头条",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时33分"
         },
         {
           "title": "报道：特朗普声称，在他批准之前，泽连斯基“什么都没有”",
@@ -368,8 +382,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时18分 ~ 20时33分]"
+          "appearance_count": 15,
+          "time_info": "[09时18分 ~ 21时26分]"
         },
         {
           "title": "霸王茶姬美股跌超 14%，创上市以来新低，其咖啡因争议影响有多大？现在做什么才能挽回声誉？",
@@ -568,7 +582,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时33分"
         }
@@ -576,7 +590,7 @@
     },
     {
       "keyword_group": "黄金",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "金饰价格突破1400元黄金回收遇冷",
@@ -588,6 +602,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时30分 ~ 12时31分]"
+        },
+        {
+          "title": "金饰价格破1400元黄金回收加工却遇冷",
+          "url": "https://www.toutiao.com/trending/7588294573819101226/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时26分"
         }
       ]
     },
