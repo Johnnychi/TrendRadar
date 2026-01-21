@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-21T17:31:37.544523+08:00",
-  "total_titles_processed": 1613,
+  "generated_at": "2026-01-21T18:25:06.166322+08:00",
+  "total_titles_processed": 1687,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 129,
+      "match_count": 131,
       "titles": [
         {
           "title": "特朗普和马克龙，直接开干了",
@@ -91,8 +91,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时41分 ~ 17时31分]"
+          "appearance_count": 12,
+          "time_info": "[11时41分 ~ 18时25分]"
         },
         {
           "title": "“拿地”的诱惑：格陵兰岛问题替代方案全否定，特朗普想要的是产权",
@@ -104,11 +104,26 @@
             15,
             12,
             9,
-            8
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[11时41分 ~ 18时25分]"
+        },
+        {
+          "title": "特朗普：联合国应继续存在，但“和平委员会”或取而代之",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32429423",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19,
+            17,
+            15
           ],
           "is_new": false,
           "appearance_count": 10,
-          "time_info": "[11时41分 ~ 17时31分]"
+          "time_info": "[12时42分 ~ 18时25分]"
         },
         {
           "title": "“拿地”的诱惑：格陵兰岛替代方案全否定，特朗普想要的是产权",
@@ -171,20 +186,6 @@
           "time_info": "[00时31分 ~ 07时20分]"
         },
         {
-          "title": "特朗普：联合国应继续存在，但“和平委员会”或取而代之",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32429423",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            19,
-            17,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时42分 ~ 17时31分]"
-        },
-        {
           "title": "特朗普计划于4月访华？外交部回应",
           "url": "https://www.toutiao.com/trending/7596273635871031359/",
           "source": "今日头条",
@@ -196,6 +197,30 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时31分 ~ 07时20分]"
+        },
+        {
+          "title": "芬兰总统“出招”：邀特朗普蒸桑拿",
+          "url": "https://news.ifeng.com/c/8q65PAAxlZG",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时31分 ~ 18时25分]"
+        },
+        {
+          "title": "特朗普称“和平委员会”可能取代联合国，中方回应",
+          "url": "https://www.cls.cn/detail/2264936",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时28分 ~ 18时25分]"
         },
         {
           "title": "美国总统特朗普：（谈庇护城市）庇护城市将不再获得资金，他们可以起诉我们，也许他们会赢。",
@@ -242,7 +267,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时31分"
         },
@@ -297,18 +322,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时31分"
-        },
-        {
-          "title": "芬兰总统“出招”：邀特朗普蒸桑拿",
-          "url": "https://news.ifeng.com/c/8q65PAAxlZG",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时31分"
         },
@@ -434,18 +448,6 @@
           "time_info": "[01时27分 ~ 02时31分]"
         },
         {
-          "title": "特朗普称“和平委员会”可能取代联合国，中方回应",
-          "url": "https://www.cls.cn/detail/2264936",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时28分 ~ 17时31分]"
-        },
-        {
           "title": "美国总统特朗普：美国下一年不会有贸易赤字/贸易逆差。",
           "url": "https://wallstreetcn.com/livenews/3040652",
           "source": "华尔街见闻-快讯",
@@ -470,6 +472,19 @@
           "time_info": "[06时20分 ~ 07时20分]"
         },
         {
+          "title": "特朗普回归后签署「大而美」法案、开启全球贸易战，真的让制造业回归了吗？重塑了美国国内的经济结构吗？",
+          "url": "https://www.zhihu.com/question/1996540321803301777",
+          "source": "知乎",
+          "ranks": [
+            20,
+            18,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时28分 ~ 18时25分]"
+        },
+        {
           "title": "特朗普晒马克龙私信",
           "url": "https://www.douyin.com/hot/2374658",
           "source": "抖音",
@@ -480,6 +495,29 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[11时41分 ~ 13时27分]"
+        },
+        {
+          "title": "以色列罕见与特朗普公开叫板",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BB%A5%E8%89%B2%E5%88%97%E7%BD%95%E8%A7%81%E4%B8%8E%E7%89%B9%E6%9C%97%E6%99%AE%E5%85%AC%E5%BC%80%E5%8F%AB%E6%9D%BF%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时31分 ~ 18时25分]"
+        },
+        {
+          "title": "特朗普刚喊完中俄威胁，转头就否了",
+          "url": "https://news.ifeng.com/c/8q61Pub3oAS",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时24分 ~ 18时25分]"
         },
         {
           "title": "特朗普：不排除以武力夺取格陵兰岛可能性",
@@ -563,18 +601,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时27分 ~ 02时31分]"
-        },
-        {
-          "title": "特朗普回归后签署「大而美」法案、开启全球贸易战，真的让制造业回归了吗？重塑了美国国内的经济结构吗？",
-          "url": "https://www.zhihu.com/question/1996540321803301777",
-          "source": "知乎",
-          "ranks": [
-            20,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时28分 ~ 17时31分]"
         },
         {
           "title": "特朗普：对美真正威胁是联合国和北约",
@@ -820,6 +846,17 @@
           "time_info": "05时18分"
         },
         {
+          "title": "瑞典表示不会签署特朗普和平委员会计划的现行版本",
+          "url": "https://wallstreetcn.com/livenews/3041184",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时25分"
+        },
+        {
           "title": "消息人士：美国总统特朗普和俄罗斯总统普京的特使进入世界经济论坛的“美国之家（USA HOUSE）”。",
           "url": "https://flash.jin10.com/detail/20260121020112692800",
           "source": "金十数据",
@@ -1002,7 +1039,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时31分"
         },
@@ -1214,17 +1251,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时18分"
-        },
-        {
-          "title": "以色列罕见与特朗普公开叫板",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BB%A5%E8%89%B2%E5%88%97%E7%BD%95%E8%A7%81%E4%B8%8E%E7%89%B9%E6%9C%97%E6%99%AE%E5%85%AC%E5%BC%80%E5%8F%AB%E6%9D%BF%23&t=31&band_rank=20&Refer=top",
-          "source": "微博",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时31分"
         },
         {
           "title": "美国总统特朗普：不会前往巴黎参加G7会议。",
@@ -1483,7 +1509,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 22,
+      "match_count": 23,
       "titles": [
         {
           "title": "日债风暴叠加格陵兰危机，“抛售美国”重现，美股债汇三杀，黄金再新高，加密货币重挫",
@@ -1493,8 +1519,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[07时19分 ~ 17时31分]"
+          "appearance_count": 15,
+          "time_info": "[07时19分 ~ 18时25分]"
         },
         {
           "title": "美股收盘：关税阴影再度笼罩市场 三大指数集体大跌 纳指跌超2%",
@@ -1622,6 +1648,17 @@
           "time_info": "[16时28分 ~ 17时31分]"
         },
         {
+          "title": "寄望达沃斯“降温地缘局势”，美股指期货齐涨，拼多多盘前涨7%，黄金新高后回落，日债大幅反弹",
+          "url": "https://wallstreetcn.com/articles/3763768",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时24分 ~ 18时25分]"
+        },
+        {
           "title": "全球科技股指数ETF收跌将近3%，领跌美股行业ETF",
           "url": "https://wallstreetcn.com/livenews/3040692",
           "source": "华尔街见闻-快讯",
@@ -1632,6 +1669,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时20分 ~ 07时20分]"
+        },
+        {
+          "title": "拼多多美股盘前涨超7%。",
+          "url": "https://wallstreetcn.com/livenews/3041149",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时31分 ~ 18时25分]"
         },
         {
           "title": "美股三大股指持续走低，标普500指数跌超2%，道指现跌约1.8%，纳指跌2.2%。",
@@ -1667,24 +1716,13 @@
           "time_info": "02时31分"
         },
         {
-          "title": "拼多多美股盘前涨超7%。",
-          "url": "https://wallstreetcn.com/livenews/3041149",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时31分"
-        },
-        {
           "title": "美股存储板块盘前普涨，闪迪(SNDK.O)涨超3%，西部数据(WDC.O)、美光科技(MU.O)涨超2%。",
           "url": "https://flash.jin10.com/detail/20260121171634449800",
           "source": "金十数据",
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时31分"
         },
@@ -1746,131 +1784,20 @@
       ]
     },
     {
-      "keyword_group": "金价",
+      "keyword_group": "chatgpt openai",
       "match_count": 10,
       "titles": [
         {
-          "title": "格陵兰岛争端为啥会推高金价",
-          "url": "https://search.bilibili.com/all?keyword=%E6%A0%BC%E9%99%B5%E5%85%B0%E5%B2%9B%E4%BA%89%E7%AB%AF%E4%B8%BA%E5%95%A5%E4%BC%9A%E6%8E%A8%E9%AB%98%E9%87%91%E4%BB%B7",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时31分 ~ 09时25分]"
-        },
-        {
-          "title": "金价",
-          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=23&Refer=top",
-          "source": "微博",
-          "ranks": [
-            23,
-            21,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时31分 ~ 09时25分]"
-        },
-        {
-          "title": "瑞银：金价上半年或冲击5000美元",
-          "url": "https://www.toutiao.com/trending/7597626980922330665/",
-          "source": "今日头条",
+          "title": "OpenAI：作为“OpenAI面向各国”倡议的一部分，推出面向各国的OpenAI教育项目。",
+          "url": "https://flash.jin10.com/detail/20260121175350755800",
+          "source": "金十数据",
           "ranks": [
             2
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时41分 ~ 12时42分]"
-        },
-        {
-          "title": "机构称金价上半年或冲击5000美元",
-          "url": "https://flash.jin10.com/detail/20260121064720274800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时20分"
+          "time_info": "18时25分"
         },
-        {
-          "title": "国际金价逼近 4700 美元，国内金饰品克价迈向 1500 元，这意味着什么？",
-          "url": "https://www.zhihu.com/question/1996659800252118065",
-          "source": "知乎",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时41分 ~ 14时32分]"
-        },
-        {
-          "title": "如何看待深圳水贝市场开始炒 999.9 铜条？为什么金价一涨，其他贵金属都跟着受追捧？",
-          "url": "https://www.zhihu.com/question/1996636704929502107",
-          "source": "知乎",
-          "ranks": [
-            16,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时41分 ~ 14时32分]"
-        },
-        {
-          "title": "如何评价黄金价格史上首次突破 4800 美元 / 盎司，后面还会再继续涨吗？",
-          "url": "https://www.zhihu.com/question/1997239169450260384",
-          "source": "知乎",
-          "ranks": [
-            13,
-            7,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时25分 ~ 17时31分]"
-        },
-        {
-          "title": "金十图示：2026年01月21日（周三）上海金早盘价为1081.52元/克，较国际金价(1080.9元/克)，高0.62元/克",
-          "url": "https://flash.jin10.com/detail/20260121112633290800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时41分"
-        },
-        {
-          "title": "金十图示：2026年01月21日（周三）上海金午盘价为1088.51元/克，较国际金价(1084.57元/克)，高3.94元/克",
-          "url": "https://flash.jin10.com/detail/20260121150154381800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时26分"
-        },
-        {
-          "title": "瑞银Joni Teves：金价上半年或冲击5000美元，白银和铜价结构性支撑渐强",
-          "url": "https://wallstreetcn.com/livenews/3040711",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时20分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 8,
-      "titles": [
         {
           "title": "OpenAI已开始向数十家广告商展示其全新的聊天机器人广告。OpenAI将于2月份正式推出聊天机器人广告，并将根据广告曝光量（浏览量）进行计费。（The Information）",
           "url": "https://wallstreetcn.com/livenews/3040928",
@@ -1905,6 +1832,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时27分"
+        },
+        {
+          "title": "OpenAI：作为“OpenAI面向各国”倡议的一部分，推出面向各国的OpenAI教育项目。",
+          "url": "https://wallstreetcn.com/livenews/3041189",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时25分"
         },
         {
           "title": "据The Information：OpenAI将于二月推出聊天机器人广告，并根据广告浏览量收费。",
@@ -1964,6 +1902,129 @@
       ]
     },
     {
+      "keyword_group": "金价",
+      "match_count": 10,
+      "titles": [
+        {
+          "title": "格陵兰岛争端为啥会推高金价",
+          "url": "https://search.bilibili.com/all?keyword=%E6%A0%BC%E9%99%B5%E5%85%B0%E5%B2%9B%E4%BA%89%E7%AB%AF%E4%B8%BA%E5%95%A5%E4%BC%9A%E6%8E%A8%E9%AB%98%E9%87%91%E4%BB%B7",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时31分 ~ 09时25分]"
+        },
+        {
+          "title": "金价",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=23&Refer=top",
+          "source": "微博",
+          "ranks": [
+            23,
+            21,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时31分 ~ 09时25分]"
+        },
+        {
+          "title": "瑞银：金价上半年或冲击5000美元",
+          "url": "https://www.toutiao.com/trending/7597626980922330665/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时41分 ~ 12时42分]"
+        },
+        {
+          "title": "如何评价黄金价格史上首次突破 4800 美元 / 盎司，后面还会再继续涨吗？",
+          "url": "https://www.zhihu.com/question/1997239169450260384",
+          "source": "知乎",
+          "ranks": [
+            13,
+            7,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时25分 ~ 18时25分]"
+        },
+        {
+          "title": "机构称金价上半年或冲击5000美元",
+          "url": "https://flash.jin10.com/detail/20260121064720274800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时20分"
+        },
+        {
+          "title": "国际金价逼近 4700 美元，国内金饰品克价迈向 1500 元，这意味着什么？",
+          "url": "https://www.zhihu.com/question/1996659800252118065",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时41分 ~ 14时32分]"
+        },
+        {
+          "title": "如何看待深圳水贝市场开始炒 999.9 铜条？为什么金价一涨，其他贵金属都跟着受追捧？",
+          "url": "https://www.zhihu.com/question/1996636704929502107",
+          "source": "知乎",
+          "ranks": [
+            16,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时41分 ~ 14时32分]"
+        },
+        {
+          "title": "金十图示：2026年01月21日（周三）上海金早盘价为1081.52元/克，较国际金价(1080.9元/克)，高0.62元/克",
+          "url": "https://flash.jin10.com/detail/20260121112633290800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时41分"
+        },
+        {
+          "title": "金十图示：2026年01月21日（周三）上海金午盘价为1088.51元/克，较国际金价(1084.57元/克)，高3.94元/克",
+          "url": "https://flash.jin10.com/detail/20260121150154381800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时26分"
+        },
+        {
+          "title": "瑞银Joni Teves：金价上半年或冲击5000美元，白银和铜价结构性支撑渐强",
+          "url": "https://wallstreetcn.com/livenews/3040711",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时20分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美债",
       "match_count": 7,
       "titles": [
@@ -1981,8 +2042,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时31分 ~ 17时31分]"
+          "appearance_count": 21,
+          "time_info": "[00时31分 ~ 18时25分]"
         },
         {
           "title": "丹麦养老基金AkademikerPension拟清仓美债，称美国信用风险“不可忽视”",
@@ -1996,8 +2057,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[06时20分 ~ 17时31分]"
+          "appearance_count": 16,
+          "time_info": "[06时20分 ~ 18时25分]"
         },
         {
           "title": "美债日债领跌！格陵兰危机与财政压力引发全球债市抛售潮",
@@ -2196,11 +2257,12 @@
             6,
             8,
             9,
-            13
+            13,
+            10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时41分 ~ 17时31分]"
+          "appearance_count": 12,
+          "time_info": "[11时41分 ~ 18时25分]"
         }
       ]
     },
