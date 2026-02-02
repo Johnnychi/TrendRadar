@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-02T22:02:15.083083+08:00",
-  "total_titles_processed": 1669,
+  "generated_at": "2026-02-02T22:51:52.131885+08:00",
+  "total_titles_processed": 1755,
   "failed_sources": [],
   "trends": [
     {
@@ -26,8 +26,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时44分 ~ 22时02分]"
+          "appearance_count": 8,
+          "time_info": "[17时44分 ~ 22时51分]"
         },
         {
           "title": "懂了｜美国亲手埋下“核种子”：6分钟看伊朗核问题的前世今生",
@@ -38,11 +38,12 @@
             10,
             9,
             7,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[15时46分 ~ 22时02分]"
+          "appearance_count": 13,
+          "time_info": "[15时46分 ~ 22时51分]"
         },
         {
           "title": "伊朗多地爆炸消息引发焦虑，美伊均释放和谈信号，哈梅内伊现身",
@@ -57,6 +58,18 @@
           "time_info": "[00时25分 ~ 09时53分]"
         },
         {
+          "title": "伊朗总统已下令启动核谈判",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BC%8A%E6%9C%97%E6%80%BB%E7%BB%9F%E5%B7%B2%E4%B8%8B%E4%BB%A4%E5%90%AF%E5%8A%A8%E6%A0%B8%E8%B0%88%E5%88%A4",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时33分 ~ 22时51分]"
+        },
+        {
           "title": "伊朗总统：战争既不符合伊朗也不符合美国利益",
           "url": "https://m.thepaper.cn/newsDetail_forward_32509366",
           "source": "澎湃新闻",
@@ -67,18 +80,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时25分 ~ 06时20分]"
-        },
-        {
-          "title": "伊朗总统已下令启动核谈判",
-          "url": "https://search.bilibili.com/all?keyword=%E4%BC%8A%E6%9C%97%E6%80%BB%E7%BB%9F%E5%B7%B2%E4%B8%8B%E4%BB%A4%E5%90%AF%E5%8A%A8%E6%A0%B8%E8%B0%88%E5%88%A4",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时33分 ~ 22时02分]"
         },
         {
           "title": "伊朗官员：有关伊斯兰革命卫队计划在霍尔木兹海峡举行军事演习的媒体报道是错误的。伊斯兰革命卫队并未就将在霍尔木兹海峡举行军事演习发布任何官方公告。（路透）",
@@ -114,8 +115,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时01分 ~ 22时02分]"
+          "appearance_count": 3,
+          "time_info": "[22时01分 ~ 22时51分]"
         },
         {
           "title": "伊朗局势现转机 贵金属原油集体跳水",
@@ -245,6 +246,31 @@
           "time_info": "[20时52分 ~ 22时02分]"
         },
         {
+          "title": "伊朗总统已下令启动核谈判",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%80%BB%E7%BB%9F%E5%B7%B2%E4%B8%8B%E4%BB%A4%E5%90%AF%E5%8A%A8%E6%A0%B8%E8%B0%88%E5%88%A4",
+          "source": "百度热搜",
+          "ranks": [
+            7,
+            16,
+            14,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时33分 ~ 22时51分]"
+        },
+        {
+          "title": "伊朗总统已下令启动核谈判",
+          "url": "https://www.douyin.com/hot/2387489",
+          "source": "抖音",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时33分 ~ 22时51分]"
+        },
+        {
           "title": "伊朗革命卫队海军司令：伊朗人民将继续坚定不移地抵御敌人的阴谋。",
           "url": "https://flash.jin10.com/detail/20260201193037958800",
           "source": "金十数据",
@@ -308,30 +334,6 @@
         },
         {
           "title": "伊朗总统已下令启动核谈判",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%80%BB%E7%BB%9F%E5%B7%B2%E4%B8%8B%E4%BB%A4%E5%90%AF%E5%8A%A8%E6%A0%B8%E8%B0%88%E5%88%A4",
-          "source": "百度热搜",
-          "ranks": [
-            7,
-            16,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时33分 ~ 22时02分]"
-        },
-        {
-          "title": "伊朗总统已下令启动核谈判",
-          "url": "https://www.douyin.com/hot/2387489",
-          "source": "抖音",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时33分 ~ 22时02分]"
-        },
-        {
-          "title": "伊朗总统已下令启动核谈判",
           "url": "https://www.toutiao.com/trending/7602220975286914602/",
           "source": "今日头条",
           "ranks": [
@@ -365,6 +367,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时41分 ~ 19时33分]"
+        },
+        {
+          "title": "伊朗召见欧洲国家所有驻伊大使抗议",
+          "url": "https://www.toutiao.com/trending/7601995362588459050/",
+          "source": "今日头条",
+          "ranks": [
+            20,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时33分 ~ 22时51分]"
         },
         {
           "title": "美官员称美政府已通过多渠道向伊朗传达谈判意向",
@@ -565,17 +579,6 @@
           "time_info": "20时52分"
         },
         {
-          "title": "伊朗召见欧洲国家所有驻伊大使抗议",
-          "url": "https://www.toutiao.com/trending/7601995362588459050/",
-          "source": "今日头条",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时33分"
-        },
-        {
           "title": "伊朗官员否认计划在霍尔木兹海峡实弹演习",
           "url": "https://wallstreetcn.com/livenews/3047908",
           "source": "华尔街见闻-快讯",
@@ -593,7 +596,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时02分"
         },
@@ -615,7 +618,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时02分"
         },
@@ -1083,7 +1086,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 22,
+      "match_count": 23,
       "titles": [
         {
           "title": "金价暴跌，深圳水贝挤满了人，扎堆买金；演员自曝4元/克买的白银，13年前存在银行保险箱忘了，逾期需补交7000多元",
@@ -1311,6 +1314,17 @@
           "time_info": "17时44分"
         },
         {
+          "title": "杭州大爷在金价低位屯了1公斤",
+          "url": "https://www.toutiao.com/trending/7601449182562254857/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时51分"
+        },
+        {
           "title": "金价下跌30克金镯2天降价6000元",
           "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E4%B8%8B%E8%B7%8C30%E5%85%8B%E9%87%91%E9%95%AF2%E5%A4%A9%E9%99%8D%E4%BB%B76000%E5%85%83%23&t=31&band_rank=24&Refer=top",
           "source": "微博",
@@ -1347,7 +1361,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 7,
+      "match_count": 13,
       "titles": [
         {
           "title": "美股期货亚市盘初走低，纳斯达克100指数期货跌0.8%，标普500指数期货跌0.6%。 现货黄金盘初大幅波动，最低报4783.98美元/盎司，目前反弹至4840美元一线附近，日内跌0.5%。 现货白银亦大幅波动，最低报80.53美元/盎司，目前反弹至82.15美元，日内跌2.7%。 布伦特原油期货亚市开盘下跌2.4%，至每桶67.78美元。",
@@ -1359,6 +1373,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时21分"
+        },
+        {
+          "title": "Strategy美股盘初跌6.9%。ProShares跌12.7%，Strive跌8.3%，网红券商Robinhood跌8.3%，Bitcoin Depot跌7.9%，IBIT跌6.3%，Circle跌5.3%，Bakkt跌3.6%，Bullish跌2.6%，特朗普媒体科技集团跌2.2%，亿邦国际涨2.3%。",
+          "url": "https://wallstreetcn.com/livenews/3048418",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时51分"
         },
         {
           "title": "金银深V遭沪盘打压，现货黄金跌破4600美元关口、沪银跌17%、沪金跌超10%，美股期货、原油走低",
@@ -1384,6 +1409,17 @@
           "time_info": "18时41分"
         },
         {
+          "title": "能源业ETF跌1.6%，在美股盘初领跌行业ETF，可选消费ETF跌0.8%，全球科技股指数ETF跌0.2%，半导体ETF、科技行业ETF涨幅不到0.5%。 标普500指数的11个板块中，能源板块盘初跌超2.1%。",
+          "url": "https://wallstreetcn.com/livenews/3048416",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时51分"
+        },
+        {
           "title": "美股股指期货周一低开，其中纳指期货跌0.8%。",
           "url": "https://flash.jin10.com/detail/20260202070305178800",
           "source": "金十数据",
@@ -1393,6 +1429,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时21分"
+        },
+        {
+          "title": "黄金白银剧烈波动 美股三大期指集体下跌 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2278222",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时51分"
         },
         {
           "title": "油价下跌5%，美股能源公司股价盘前大跌，西方石油(OXY.N)下跌3.1%，康菲石油(COP.N)下跌2.6%，哈利伯顿(HAL.N)下跌4.1%，斯伦贝谢(SLB.N)下跌2.9%，埃克森美孚石油(XOM.N)下跌1.5%，雪佛龙(CVX.N)下跌1.7%。",
@@ -1406,6 +1453,17 @@
           "time_info": "17时44分"
         },
         {
+          "title": "金十图示：2026年02月02日（周一）美股热门股票行情一览",
+          "url": "https://flash.jin10.com/detail/20260202223645296800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时51分"
+        },
+        {
           "title": "美股盘前，明星科技股普跌，英伟达跌近2%，AMD跌超2.4%；存储芯片股多数走低，西部数据跌超3%；甲骨文盘前跌5%，公司今年将融资500亿美元；黄金股大跌，哈莫尼黄金跌超5%。美股能源股，西方石油跌超3%，康菲石油跌超2%。",
           "url": "https://wallstreetcn.com/livenews/3048249",
           "source": "华尔街见闻-快讯",
@@ -1417,6 +1475,17 @@
           "time_info": "17时44分"
         },
         {
+          "title": "美股开盘，道指跌0.1%，标普500指数跌0.32%，纳指跌0.39%。甲骨文(ORCL.N)涨3.8%，公司计划筹资至高500亿美元且启动美元债发行。美国稀土公司涨7.2%，据报道特朗普拟设120亿美元关键矿产战略储备。",
+          "url": "https://flash.jin10.com/detail/20260202223031396800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时51分"
+        },
+        {
           "title": "迪士尼美股盘前转涨，现涨超3%，公司第一季度调整后每股收益超市场预期。",
           "url": "https://wallstreetcn.com/livenews/3048339",
           "source": "华尔街见闻-快讯",
@@ -1426,62 +1495,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "20时52分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "10年期美债期货下跌1个点，30年期期货下跌7个点。",
-          "url": "https://flash.jin10.com/detail/20260202070317059800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时21分"
         },
         {
-          "title": "美债市场紧盯季度发债安排 警惕美财政部祭出压低收益率的意外动作",
-          "url": "https://wallstreetcn.com/livenews/3048366",
+          "title": "周一美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3048399",
           "source": "华尔街见闻-快讯",
           "ranks": [
             22
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时02分"
-        },
-        {
-          "title": "沃什提名震荡余波未平 市场静待再融资公告开启美债新变局",
-          "url": "https://flash.jin10.com/detail/20260202145814081800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时47分"
-        },
-        {
-          "title": "盛宝银行：美债收益率回落 沃什提名与避险需求提供支撑",
-          "url": "https://flash.jin10.com/detail/20260202192944243800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时52分"
+          "time_info": "22时51分"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 2,
+      "match_count": 6,
       "titles": [
         {
           "title": "黄仁勋澄清：对OpenAI的千亿投资\"从未承诺\"，英伟达将逐步评估",
@@ -1507,6 +1537,111 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时25分 ~ 06时20分]"
+        },
+        {
+          "title": "Snowflake与OpenAI达成2亿美元、持续多年的合作伙伴关系。 双方将共同开发企业级AI解决方案。",
+          "url": "https://wallstreetcn.com/livenews/3048404",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时51分"
+        },
+        {
+          "title": "迪士尼首席执行官：仍在“梳理OpenAI交易的所有技术细节”。",
+          "url": "https://flash.jin10.com/detail/20260202221537167800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时51分"
+        },
+        {
+          "title": "迪士尼首席执行官：迪士尼希望与OpenAI的交易能推动其在Disney+上提供短视频的能力。",
+          "url": "https://flash.jin10.com/detail/20260202220631439800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时51分"
+        },
+        {
+          "title": "Snowflake盘前上涨2.6%，此前该公司与OpenAI达成2亿美元的合作伙伴关系。",
+          "url": "https://flash.jin10.com/detail/20260202220614192800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时51分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "10年期美债期货下跌1个点，30年期期货下跌7个点。",
+          "url": "https://flash.jin10.com/detail/20260202070317059800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时21分"
+        },
+        {
+          "title": "美债市场紧盯季度发债安排 警惕美财政部祭出压低收益率的意外动作",
+          "url": "https://wallstreetcn.com/livenews/3048366",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "22时02分"
+        },
+        {
+          "title": "沃什提名震荡余波未平 市场静待再融资公告开启美债新变局",
+          "url": "https://flash.jin10.com/detail/20260202145814081800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时47分"
+        },
+        {
+          "title": "盛宝银行：美债收益率回落 沃什提名与避险需求提供支撑",
+          "url": "https://flash.jin10.com/detail/20260202192944243800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时52分"
+        },
+        {
+          "title": "避险需求推升美债 沃什任命引发降息与缩表猜测",
+          "url": "https://flash.jin10.com/detail/20260202215501935800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时51分"
         }
       ]
     },
@@ -1523,8 +1658,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时52分 ~ 22时02分]"
+          "appearance_count": 4,
+          "time_info": "[20时52分 ~ 22时51分]"
         },
         {
           "title": "土耳其提高部分黄金、白银基金的最低价格限制。",
