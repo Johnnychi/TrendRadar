@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-24T13:57:18.042908+08:00",
-  "total_titles_processed": 1091,
+  "generated_at": "2026-02-24T15:19:30.127412+08:00",
+  "total_titles_processed": 1197,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 50,
+      "match_count": 54,
       "titles": [
         {
           "title": "重兵集结下美伊本周再谈，特朗普面临选择：签“面子协议”和先定点打击",
@@ -65,8 +65,21 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时50分 ~ 13时57分]"
+          "appearance_count": 5,
+          "time_info": "[09时50分 ~ 15时19分]"
+        },
+        {
+          "title": "美军最高将领据传告知特朗普：对伊朗动武可能带来重大风险",
+          "url": "https://www.cls.cn/detail/2293044",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时50分 ~ 15时19分]"
         },
         {
           "title": "特朗普否认美军将领“反对与伊朗开战”",
@@ -80,19 +93,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[07时32分 ~ 12时16分]"
-        },
-        {
-          "title": "美军最高将领据传告知特朗普：对伊朗动武可能带来重大风险",
-          "url": "https://www.cls.cn/detail/2293044",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时50分 ~ 13时57分]"
         },
         {
           "title": "美国众议长约翰逊：国会山不可能将总统特朗普的关税写入法律。（Politico）",
@@ -128,15 +128,16 @@
           "time_info": "00时53分"
         },
         {
-          "title": "美国国防部长赫格塞思：伊朗应该达成协议。伊朗有机会达成协议。这是特朗普所希望的结果。如果伊朗决定不达成协议，我们将为特朗普准备选项。",
-          "url": "https://flash.jin10.com/detail/20260224134038685800",
-          "source": "金十数据",
+          "title": "特朗普接连出招，伤害性不大，侮辱性极强",
+          "url": "https://news.ifeng.com/c/8qzr8hme4jH",
+          "source": "凤凰网",
           "ranks": [
-            5
+            7,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时57分"
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时50分 ~ 15时19分]"
         },
         {
           "title": "特朗普否认美军将领“反对与伊朗开战”",
@@ -214,18 +215,6 @@
           "time_info": "[00时53分 ~ 02时01分]"
         },
         {
-          "title": "特朗普接连出招，伤害性不大，侮辱性极强",
-          "url": "https://news.ifeng.com/c/8qzr8hme4jH",
-          "source": "凤凰网",
-          "ranks": [
-            7,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时50分 ~ 13时57分]"
-        },
-        {
           "title": "美国国会预算办公室（CBO）主任Swagel：正追踪特朗普政府的关税计划。 一旦掌握情况，将（针对联邦政府赤字问题）提供最新预期。 将静观特朗普政府会做出怎样的决定。",
           "url": "https://wallstreetcn.com/livenews/3057679",
           "source": "华尔街见闻-快讯",
@@ -236,6 +225,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时47分 ~ 07时32分]"
+        },
+        {
+          "title": "美国国防部长赫格塞思：伊朗应该达成协议。伊朗有机会达成协议。这是特朗普所希望的结果。如果伊朗决定不达成协议，我们将为特朗普准备选项。",
+          "url": "https://flash.jin10.com/detail/20260224134038685800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时57分 ~ 15时19分]"
         },
         {
           "title": "德国10年期国债收益率跌约3个基点，特朗普关税带来的不确定性迫使投资者避险",
@@ -260,6 +261,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时11分 ~ 04时41分]"
+        },
+        {
+          "title": "特朗普发出邀请，美国女子冰球队：婉拒了哈",
+          "url": "https://news.ifeng.com/c/8r0DvNIO9e9",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时57分 ~ 15时19分]"
         },
         {
           "title": "欧盟方面警告称，特朗普的新关税政策违反了现有的贸易协定。",
@@ -357,17 +369,6 @@
           "time_info": "07时32分"
         },
         {
-          "title": "特朗普发出邀请，美国女子冰球队：婉拒了哈",
-          "url": "https://news.ifeng.com/c/8r0DvNIO9e9",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时57分"
-        },
-        {
           "title": "美国众议院议长约翰逊称：不认为特朗普政府应该退还关税款项。（CNN）",
           "url": "https://wallstreetcn.com/livenews/3057629",
           "source": "华尔街见闻-快讯",
@@ -418,9 +419,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时57分"
+        },
+        {
+          "title": "特朗普“换马甲”强征关税！多方抨击：新关税法理依然站不住脚",
+          "url": "https://www.cls.cn/detail/2293302",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时19分"
         },
         {
           "title": "据华尔街日报：特朗普政府正在考虑对六种行业征收新的“国家安全关税”。",
@@ -440,7 +452,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时57分"
         },
@@ -473,7 +485,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时57分"
         },
@@ -489,6 +501,17 @@
           "time_info": "04时41分"
         },
         {
+          "title": "特朗普：很多人想置我于死地",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E5%BE%88%E5%A4%9A%E4%BA%BA%E6%83%B3%E7%BD%AE%E6%88%91%E4%BA%8E%E6%AD%BB%E5%9C%B0",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时19分"
+        },
+        {
           "title": "美媒：尽管特朗普发文 但并无美国医院船奉命前往格陵兰岛",
           "url": "https://flash.jin10.com/detail/20260224062743419800",
           "source": "金十数据",
@@ -500,13 +523,24 @@
           "time_info": "07时32分"
         },
         {
+          "title": "特朗普第二任期首场国情咨文谈什么",
+          "url": "https://www.toutiao.com/trending/7610257077706457134/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时19分"
+        },
+        {
           "title": "据悉特朗普要求科技企业高管承诺承担数据中心相关费用",
           "url": "https://flash.jin10.com/detail/20260224123615325800",
           "source": "金十数据",
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时57分"
         },
@@ -542,6 +576,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时50分"
+        },
+        {
+          "title": "电价攀升惹民怨，特朗普要求美国科技公司承诺自掏腰包建设AI数据中心",
+          "url": "https://wallstreetcn.com/livenews/3057913",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时19分"
         },
         {
           "title": "美国参议院少数党领袖：参议院民主党人将阻止特朗普延长关税",
@@ -591,21 +636,8 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 20,
+      "match_count": 23,
       "titles": [
-        {
-          "title": "WW3预热,美国对伊朗动手",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350882&amp;topic_name=WW3%E9%A2%84%E7%83%AD%2C%E7%BE%8E%E5%9B%BD%E5%AF%B9%E4%BC%8A%E6%9C%97%E5%8A%A8%E6%89%8B",
-          "source": "贴吧",
-          "ranks": [
-            3,
-            2,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时53分 ~ 13时57分]"
-        },
         {
           "title": "伊朗外长：有可能达成比2015年伊核协议“更好的协议”",
           "url": "https://m.thepaper.cn/newsDetail_forward_32644744",
@@ -618,6 +650,20 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时53分 ~ 07时32分]"
+        },
+        {
+          "title": "WW3预热,美国对伊朗动手",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350882&amp;topic_name=WW3%E9%A2%84%E7%83%AD%2C%E7%BE%8E%E5%9B%BD%E5%AF%B9%E4%BC%8A%E6%9C%97%E5%8A%A8%E6%89%8B",
+          "source": "贴吧",
+          "ranks": [
+            3,
+            2,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[00时53分 ~ 15时19分]"
         },
         {
           "title": "美国被曝已决定对伊朗发动军事打击，预计 23 日或 24 日，是极限施压还是真要打？",
@@ -642,8 +688,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[06时22分 ~ 13时57分]"
+          "appearance_count": 9,
+          "time_info": "[06时22分 ~ 15时19分]"
         },
         {
           "title": "伊朗军队总司令：将誓死捍卫国家独立和主权完整",
@@ -706,6 +752,19 @@
         },
         {
           "title": "美军参联会主席警告：对伊朗动武可能带来重大风险",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32647811",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时50分 ~ 15时19分]"
+        },
+        {
+          "title": "美军参联会主席警告：对伊朗动武可能带来重大风险",
           "url": "https://wallstreetcn.com/livenews/3057617",
           "source": "华尔街见闻-快讯",
           "ranks": [
@@ -717,19 +776,6 @@
           "time_info": "[03时11分 ~ 04时41分]"
         },
         {
-          "title": "美军参联会主席警告：对伊朗动武可能带来重大风险",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32647811",
-          "source": "澎湃新闻",
-          "ranks": [
-            11,
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时50分 ~ 13时57分]"
-        },
-        {
           "title": "内塔尼亚胡警告伊朗",
           "url": "https://www.douyin.com/hot/2409895",
           "source": "抖音",
@@ -738,8 +784,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时15分 ~ 13时57分]"
+          "appearance_count": 4,
+          "time_info": "[12时15分 ~ 15时19分]"
         },
         {
           "title": "内塔尼亚胡警告伊朗",
@@ -809,6 +855,28 @@
           "time_info": "03时11分"
         },
         {
+          "title": "据伊朗媒体24日报道，一架直升机在伊朗中部坠毁。（新华社）",
+          "url": "https://flash.jin10.com/detail/20260224142432525800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时19分"
+        },
+        {
+          "title": "伊朗：战争的后果将“波及整个地区”",
+          "url": "https://www.toutiao.com/trending/7609899439436021823/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时19分"
+        },
+        {
           "title": "阿联酋与伊朗外长讨论地区局势发展。",
           "url": "https://wallstreetcn.com/livenews/3057644",
           "source": "华尔街见闻-快讯",
@@ -818,6 +886,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时22分"
+        },
+        {
+          "title": "伊朗伊斯法罕省发生一起直升机坠毁事故",
+          "url": "https://wallstreetcn.com/livenews/3057917",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时19分"
         },
         {
           "title": "学者：伊朗在内忧外患中稳住阵脚",
@@ -862,17 +941,6 @@
           "time_info": "[00时53分 ~ 12时16分]"
         },
         {
-          "title": "AI担忧加剧、关税战风险重燃，金融和软件股拖垮美股，金银大涨，期银一度涨近8%",
-          "url": "https://wallstreetcn.com/articles/3765966",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时22分 ~ 07时32分]"
-        },
-        {
           "title": "AI担忧加剧、关税战风险重燃，金融和软件股拖垮美股，黄金四连涨，期银一度涨近8%",
           "url": "https://wallstreetcn.com/articles/3765966",
           "source": "华尔街见闻",
@@ -880,8 +948,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时50分 ~ 13时57分]"
+          "appearance_count": 5,
+          "time_info": "[09时50分 ~ 15时19分]"
         },
         {
           "title": "美股收盘：关税风波+AI“鬼故事”袭扰 三大指数承压下挫",
@@ -893,8 +961,19 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时32分 ~ 13时57分]"
+          "appearance_count": 6,
+          "time_info": "[07时32分 ~ 15时19分]"
+        },
+        {
+          "title": "AI担忧加剧、关税战风险重燃，金融和软件股拖垮美股，金银大涨，期银一度涨近8%",
+          "url": "https://wallstreetcn.com/articles/3765966",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时22分 ~ 07时32分]"
         },
         {
           "title": "“2028AI末日预言”吓坏市场，投资者掀起抛售潮，美股多板块盘中集体重挫",
@@ -905,8 +984,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时50分 ~ 13时57分]"
+          "appearance_count": 5,
+          "time_info": "[09时50分 ~ 15时19分]"
         },
         {
           "title": "AI恐慌之下投资者成惊弓之鸟，一份假想报告引发美股多板块遭血洗",
@@ -951,8 +1030,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时15分 ~ 13时57分]"
+          "appearance_count": 4,
+          "time_info": "[12时15分 ~ 15时19分]"
         },
         {
           "title": "道指ETF收跌超1.6%，和小盘股ETF领跌美股大类资产类ETF，黄金ETF涨2.7%",
